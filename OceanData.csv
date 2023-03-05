@@ -1,0 +1,1433 @@
+﻿SoldAs,IdentifiedAs,CommonName,Mislabelled,PurchaseLocation,City,Year,ExpectedGen,ExpectedMoreGen,RealGen,RealMoreGen,isMislabelled
+Yellowtail,Rhomboplitesaurorubens,Vermillion Snapper,Yes,Restaurant,montreal,2019,Yellowtail,Yellowtail,Vermillion Snapper,Snapper,1
+Sea Bass,Dicentrarchus labrax,Sea Bass,No,Restaurant,montreal,2019,Sea Bass,Bass,Sea Bass,Bass,0
+Snapper,Rachycentron canadum,Cobia,Yes,Restaurant,montreal,2019,Snapper,Snapper,Cobia,Cobia,1
+Loup de mer,Dicentrarchus labrax,Sea Bass,Yes,Restaurant,montreal,2019,Loup de mer,Loup de mer,Sea Bass,Bass,1
+"Cod, Wild Atlantic",Gadus morhua,Atlantic Cod,No,Grocerystore,montreal,2019,"Cod, Wild Atlantic",Cod,Atlantic Cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific Cod, Grey Cod,Cod",No,Grocerystore,montreal,2019,"Cod, Pacific",Cod,"Pacific Cod, Grey Cod,Cod",Cod,0
+Snapper/Vivaneau rouge,"Pristipomoides
+filamentosus",Not on the CFIA Fish List,Yes,Grocerystore,montreal,2019,Snapper,Snapper,Not on the CFIA Fish List,List,1
+"Salmon, Fresh Sockeye",Oncorhynchus nerka,Sockeye Salmon,No,Grocerystore,montreal,2019,"Salmon, Fresh Sockeye",Salmon,Sockeye Salmon,Salmon,0
+"Cod, Fresh Pacific",Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",No,Grocerystore,montreal,2019,"Cod, Fresh Pacific",Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,0
+"Salmon, Chinook Pacific","Oncorhynchus
+tshawytscha",Chinook Salmon,No,Grocerystore,montreal,2019,"Salmon, Chinook Pacific",Salmon,Chinook Salmon,Salmon,0
+Dover Sole,"Hippoglossoides
+elassodon","Flounder, Sole, Flathead
+Sole",Yes,Grocerystore,montreal,2019,Dover Sole,Sole,"Flounder, Sole, Flathead
+Sole",Sole,1
+"Lavraki, Mediterranean",Dicentrarchus labrax,Sea Bass,Yes,Restaurant,montreal,2019,"Lavraki, Mediterranean",Lavraki,Sea Bass,Bass,1
+Lithrinin,Pagellus erythrinus,Not on the CFIA Fish List,Yes,Restaurant,montreal,2019,Lithrinin,Lithrinin,Not on the CFIA Fish List,List,1
+"Sole, Wild, Fresh","Hippoglossoides
+elassodon",Sole,No,Grocerystore,montreal,2019,"Sole, Wild, Fresh",Sole,Sole,Sole,0
+"Cod, Wild, Fresh Atlantic",Gadus morhua,Atlantic Cod,No,Grocerystore,montreal,2019,"Cod, Wild, Fresh Atlantic",Cod,Atlantic Cod,Cod,0
+"Seabass, European",Dicentrarchus labrax,Sea Bass,No,Restaurant,montreal,2019,"Seabass, European",Bass,Sea Bass,Bass,0
+"Snapper, red (Tai/vivaneau)",Oreochromis niloticus,Nile Tilapia,Yes,Restaurant,montreal,2019,"Snapper, red ",Snapper,Nile Tilapia,Tilapia,1
+Cod/Morue,Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",No,Grocerystore,montreal,2019,Cod,Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,0
+Striped bass,Dicentrarchus labrax,Sea Bass,Yes,Restaurant,montreal,2019,Striped bass,Bass,Sea Bass,Bass,1
+Crevettes Matane,Pandalus borealis,"Crevette Boréale, Crevette, Crevette
+Rose, Crevette D'eau
+Froide, Crevette
+Nordique, Crevette
+Nordique Du Canada",Yes,Grocerystore,montreal,2019,Crevettes Matane,Matane,"Crevette Boréale, Crevette, Crevette
+Rose, Crevette D'eau
+Froide, Crevette
+Nordique, Crevette
+Nordique Du Canada",Crevette,1
+"Halibut, Atlantic","Hippoglossus
+hippoglossus",Atlantic Halibut,No,Grocerystore,montreal,2019,"Halibut, Atlantic",Halibut,Atlantic Halibut,Halibut,0
+Tuna: Darne de thon yellowfin,Thunnus albacares,"Thon, Albacore",Yes,Grocerystore,montreal,2019,Tuna: Darne de thon yellowfin,Tuna,"Thon, Albacore",tuna ,1
+"Yellowtail Tuna, Hamachi",Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,"Yellowtail Tuna, Hamachi",Tuna,Japanese Amberjack,Amberjack,1
+"Halibut, Fletan","Hippoglossus
+hippoglossus",Flétan,No,Restaurant,montreal,2019,"Halibut, Fletan",Halibut,Flétan,Flétan,0
+White Tuna (Albacore),Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White Tuna ,Tuna,Albacore Tuna,tuna ,1
+White Tuna (Albacore),Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White Tuna ,Tuna,Albacore Tuna,tuna ,1
+"Yellow Tail Tuna, Hamachi",Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,"Yellow Tail Tuna, Hamachi",Tuna,Japanese Amberjack,Amberjack,1
+Butterfish,"Lepidocybium
+flavobrunneum","Snake Mackerel, Escolar",Yes,Restaurant,montreal,2019,Butterfish,Butterfish,"Snake Mackerel, Escolar",Escolar,1
+Halibut,"Hippoglossus
+hippoglossus",Halibut,No,Restaurant,montreal,2019,Halibut,Halibut,Halibut,Halibut,0
+Butterfish,"Lepidocybium
+flavobrunneum","Snake Mackerel, Escolar",Yes,Restaurant,montreal,2019,Butterfish,Butterfish,"Snake Mackerel, Escolar",Escolar,1
+"Halibut, Atlantic","Hippoglossus
+hippoglossus",Atlantic Halibut,No,Restaurant,montreal,2019,"Halibut, Atlantic",Halibut,Atlantic Halibut,Halibut,0
+Cod,Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",No,Restaurant,montreal,2019,Cod,Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,0
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+Atlantic Cod,Gadus macrocephalus,Pacific Cod,Yes,Grocerystore,montreal,2019,Atlantic Cod,Cod,Pacific Cod,Cod,1
+Crevette nordique,Pandalus borealis,Crevette Nordique,No,Restaurant,montreal,2019,Crevette nordique,nordique,Crevette Nordique,Nordique,0
+Doré,Sander vitreus,Doré Jaune,Yes,Restaurant,montreal,2019,Doré,Doré,Doré Jaune,Jaune,1
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+"Cod, Pacific",Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",No,Grocerystore,montreal,2019,"Cod, Pacific",Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,0
+"Cod, Fresh Icelandic",Gadus morhua,Cod,No,Grocerystore,montreal,2019,"Cod, Fresh Icelandic",Cod,Cod,Cod,0
+Yellowtail,Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,Yellowtail,Yellowtail,Japanese Amberjack,Amberjack,1
+"Snapper, red (Tai)",Oreochromis niloticus,Nile Tilapia,Yes,Restaurant,montreal,2019,"Snapper, red ",Snapper,Nile Tilapia,Tilapia,1
+White tuna/Thon blanc,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+"Atlantic Cod, Morue fraiche
+atlantique",Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",Yes,Grocerystore,montreal,2019,"Atlantic Cod, Morue fraiche
+atlantique",Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,1
+"Salmon, Pacific",Salmo Salar,Atlantic Salmon,Yes,Grocerystore,montreal,2019,"Salmon, Pacific",Salmon,Atlantic Salmon,Salmon,1
+White tuna (labelled Albacore),Thunnus alalunga,Albacore Tuna,No,Restaurant,montreal,2019,White tuna ,Tuna,Albacore Tuna,tuna ,0
+Cod,Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",No,Restaurant,montreal,2019,Cod,Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,0
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+Loup de mer,Dicentrarchus labrax,Sea Bass,Yes,Restaurant,montreal,2019,Loup de mer,Loup de mer,Sea Bass,Bass,1
+Halibut,"Hippoglossus
+hippoglossus",Halibut,No,Restaurant,montreal,2019,Halibut,Halibut,Halibut,Halibut,0
+Yellowtail,Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,Yellowtail,Yellowtail,Japanese Amberjack,Amberjack,1
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+"Snapper, Red",Oreochromis niloticus,Nile Tilapia,Yes,Restaurant,montreal,2019,"Snapper, Red",Snapper,Nile Tilapia,Tilapia,1
+Yellowtail,Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,Yellowtail,Yellowtail,Japanese Amberjack,Amberjack,1
+"Halibut, Atlantic","Hippoglossus
+hippoglossus",Atlantic Halibut,No,Restaurant,montreal,2019,"Halibut, Atlantic",Halibut,Atlantic Halibut,Halibut,0
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+Dover Sole,Solea solea,Not on the CFIA Fish List,Yes,Restaurant,montreal,2019,Dover Sole,Sole,Not on the CFIA Fish List,List,1
+"Cod, Atlantic",Gadus morhua,"Atlantic Cod
+Japanese Seabream,",No,Restaurant,montreal,2019,"Cod, Atlantic",Cod,"Atlantic Cod
+Japanese Seabream,",Atlantic cod ,0
+"Sea Bass, Wild",Pagrus major,"Silver
+Seabream, Genuine
+Porgy",Yes,Restaurant,montreal,2019,"Sea Bass, Wild",Bass,"Silver
+Seabream, Genuine
+Porgy",Porgy,1
+Cod (salted),Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",No,Grocerystore,montreal,2019,Cod ,Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,0
+Halibut,"Hippoglossus
+hippoglossus",Halibut,No,Restaurant,montreal,2019,Halibut,Halibut,Halibut,Halibut,0
+"Sole, Atlantic",Limanda ferruginea,"Sole, Dab, Yellowtail,
+Flounder, Yellowtail
+Flounder, Rusty Dab",No,Grocerystore,montreal,2019,"Sole, Atlantic",Sole,"Sole, Dab, Yellowtail,
+Flounder, Yellowtail
+Flounder, Rusty Dab",Dab,0
+Cod,Gadus morhua,"Atlantic Cod, Cod",No,Grocerystore,montreal,2019,Cod,Cod,"Atlantic Cod, Cod",Cod,0
+Halibut,"Hippoglossus
+hippoglossus",Halibut,No,Grocerystore,montreal,2019,Halibut,Halibut,Halibut,Halibut,0
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+"Snapper, Red",Oreochromis niloticus,Nile Tilapia,Yes,Restaurant,montreal,2019,"Snapper, Red",Snapper,Nile Tilapia,Tilapia,1
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+"Snapper, Red",Oreochromis aureus,Tilapia,Yes,Restaurant,montreal,2019,"Snapper, Red",Snapper,Tilapia,Tilapia,1
+"Halibut, Atlantic","Hippoglossus
+hippoglossus",Atlantic Halibut,No,Grocerystore,montreal,2019,"Halibut, Atlantic",Halibut,Atlantic Halibut,Halibut,0
+Yellowtail,Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,Yellowtail,Yellowtail,Japanese Amberjack,Amberjack,1
+Yellowtail (Hachimi),Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,Yellowtail ,Yellowtail,Japanese Amberjack,Amberjack,1
+"Salmon, Pacific Sockeye",Oncorhynchus nerka,"Sockeye Salmon
+Japanese Seabream,",No,Restaurant,montreal,2019,"Salmon, Pacific Sockeye",Salmon,"Sockeye Salmon
+Japanese Seabream,",Salmon,0
+"Snapper, Japanese Tai",Pagrus major,"Silver
+Seabream, Genuine
+Porgy",Yes,Restaurant,montreal,2019,"Snapper, Japanese Tai",Snapper,"Silver
+Seabream, Genuine
+Porgy",Porgy,1
+White tuna,"Lepidocybium
+flavobrunneum","Snake Mackerel, Escolar",Yes,Restaurant,montreal,2019,White tuna,Tuna,"Snake Mackerel, Escolar",Escolar,1
+Snapper,Oreochromis niloticus,Nile Tilapia,Yes,Restaurant,montreal,2019,Snapper,Snapper,Nile Tilapia,Tilapia,1
+"Halibut, wild","Hippoglossus
+hippoglossus",Halibut,No,Grocerystore,montreal,2019,"Halibut, wild",Halibut,Halibut,Halibut,0
+Dover sole,"Hippoglossoides
+elassodon","Flounder, Sole, Flathead
+Sole",Yes,Grocerystore,montreal,2019,Dover sole,Sole,"Flounder, Sole, Flathead
+Sole",Sole,1
+Cod,Gadus macrocephalus,"Pacific Cod, Grey Cod,
+Cod",No,Grocerystore,montreal,2019,Cod,Cod,"Pacific Cod, Grey Cod,
+Cod",Cod,0
+"Salmon, Wild Pacific",Oncorhynchus gorbuscha,Pink Salmon,Yes,Grocerystore,montreal,2019,"Salmon, Wild Pacific",Salmon,Pink Salmon,Salmon,1
+"Cod, Wild Atlantic",Gadus morhua,"Atlantic Cod, Cod",No,Grocerystore,montreal,2019,"Cod, Wild Atlantic",Cod,"Atlantic Cod, Cod",Cod,0
+Pickerel/Dore,Sander vitreus,Doré Jaune,Yes,Grocerystore,montreal,2019,Pickerel,Pickerel,Doré Jaune,Jaune,1
+"Salmon, Ora king",Salmo salar,Atlantic Salmon,Yes,Restaurant,montreal,2019,"Salmon, Ora king",Salmon,Atlantic Salmon,Salmon,1
+Sea bass,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,Sea bass,Bass,Albacore Tuna,tuna ,1
+Yellowtail/Thon queue jaune,Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,Yellowtail,Yellowtail,Japanese Amberjack,Amberjack,1
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+White tuna,Thunnus alalunga,Albacore Tuna,Yes,Restaurant,montreal,2019,White tuna,Tuna,Albacore Tuna,tuna ,1
+Snapper,Oreochromis niloticus,Nile Tilapia,Yes,Restaurant,montreal,2019,Snapper,Snapper,Nile Tilapia,Tilapia,1
+Cod,Gadus morhua,"Atlantic Cod, Cod",No,Restaurant,montreal,2019,Cod,Cod,"Atlantic Cod, Cod",Cod,0
+"Sea Bass, Mediterranean",Dicentrarchus labrax,Sea Bass,No,Restaurant,montreal,2019,"Sea Bass, Mediterranean",Bass,Sea Bass,Bass,0
+Yellowtail,Seriola quinqueradiata,Japanese Amberjack,Yes,Restaurant,montreal,2019,Yellowtail,Yellowtail,Japanese Amberjack,Amberjack,1
+Black Cod,Anoplopoma fimbria,"Black cod, Sablefish",No,Restaurant,halifax,2018,Black Cod,Cod,"Black cod, Sablefish",Sablefish,0
+Boston Blue Cod,Pollachius virens,"Pollock (Pollock, Coalfish,
+Saithe, Big-eye, Boston
+Bluefish)",Yes,Grocerystore,halifax,2018,Boston Blue Cod,Cod,Pollock,Pollock,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,halifax,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,halifax,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,halifax,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,halifax,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,halifax,2018,Butterfish,Butterfish,Escolar,Escolar,1
+"Char, Arctic",Salvelinus alpinus,"Char (Char, Arctic char)",No,Restaurant,halifax,2018,"Char, Arctic",Char,Char,Char,0
+Cod,"Melanogrammus
+aeglefinus",Haddock,Yes,Grocerystore,halifax,2018,Cod,Cod,Haddock,Haddock,1
+Cod,Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Grocerystore,halifax,2018,Cod,Cod,Atlantic cod,Cod,0
+Cod,Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Grocerystore,halifax,2018,Cod,Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus macrocephalus,"Pacific Cod (Cod, Pacific
+Cod)",Yes,Grocerystore,halifax,2018,"Cod, Atlantic",Cod,Pacific Cod,Cod,1
+"Cod, Atlantic","Melanogrammus
+aeglefinus",Haddock,Yes,Restaurant,halifax,2018,"Cod, Atlantic",Cod,Haddock,Haddock,1
+"Cod, Atlantic",Gadus macrocephalus,"Pacific Cod (Cod, Pacific
+Cod)",Yes,Restaurant,halifax,2018,"Cod, Atlantic",Cod,Pacific Cod,Cod,1
+"Cod, Atlantic",Gadus macrocephalus,"Pacific Cod (Cod, Pacific
+Cod)",Yes,Restaurant,halifax,2018,"Cod, Atlantic",Cod,Pacific Cod,Cod,1
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,halifax,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,halifax,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Grocerystore,halifax,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Grocerystore,halifax,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,halifax,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,halifax,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Cod, Pacific
+cod)",No,Grocerystore,halifax,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Cod, Pacific
+cod)",No,Grocerystore,halifax,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Crab, Snow",Homarus americanus,"American lobster (Lobster,
+American lobster)",Yes,Restaurant,halifax,2018,"Crab, Snow",Crab,American lobster,lobster,1
+Cuttlefish,Sepia sp.,Cuttlefish,No,Restaurant,halifax,2018,Cuttlefish,Cuttlefish,Cuttlefish,Cuttlefish,0
+Eel,Anguilla rostrata,"Eel (Eel, American eel)",No,Restaurant,halifax,2018,Eel,Eel,Eel,Eel,0
+"Eel, Fresh Water",Anguilla rostrata,"Eel (Eel, American eel)",No,Restaurant,halifax,2018,"Eel, Fresh Water",Eel,Eel,Eel,0
+Haddock,"Melanogrammus
+aeglefinus",Haddock,No,Restaurant,halifax,2018,Haddock,Haddock,Haddock,Haddock,0
+Hake,Urophycis tenuis,White hake (White hake),"Yes – not in Hake genus
+(Merluccius )",Grocerystore,halifax,2018,Hake,Hake,White hake,hake,0
+Hake,Urophycis tenuis,White hake (White hake),"Yes – not in Hake genus
+(Merluccius )",Grocerystore,halifax,2018,Hake,Hake,White hake,hake,0
+Hake,Merluccius bilinearis,"Hake (Hake, Silver hake,
+Whiting, Southwest Atlantic
+hake, Atlantic whiting)",No,Restaurant,halifax,2018,Hake,Hake,Hake,Hake,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Grocerystore,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Grocerystore,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Halibut,
+Atlantic halibut)",No,Restaurant,halifax,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+Lobster,Homarus americanus,"American lobster (Lobster,
+American lobster)",No,Restaurant,halifax,2018,Lobster,Lobster,American lobster,lobster,0
+Lobster,Homarus americanus,"American lobster (Lobster,
+American lobster)",No,Restaurant,halifax,2018,Lobster,Lobster,American lobster,lobster,0
+"Lobster, Atlantic",Homarus americanus,"American lobster (Lobster,
+American lobster)",No,Restaurant,halifax,2018,"Lobster, Atlantic",Lobster,American lobster,lobster,0
+"Lobster, Nova Scotia",Homarus americanus,"American lobster (Lobster,
+American lobster)",No,Restaurant,halifax,2018,"Lobster, Nova Scotia",Lobster,American lobster,lobster,0
+"Lobster, Rock",Panulirus argus,"Crayfish (Crayfish; Spiny
+Lobster)",Yes,Restaurant,halifax,2018,"Lobster, Rock",Lobster,Crayfish,Crayfish,1
+Mackerel,Scomber scombrus,"Mackerel (Mackerel,
+Atlantic mackerel)",No,Grocerystore,halifax,2018,Mackerel,Mackerel,Mackerel,Mackerel,0
+"Mackerel, Vinegared",Scomber scombrus,"Mackerel (Mackerel,
+Atlantic mackerel)",No,Restaurant,halifax,2018,"Mackerel, Vinegared",Mackerel,Mackerel,Mackerel,0
+"Perch, Atlantic Ocean",Sebastes mentella,"Ocean perch (Redfish,
+Rosefish, Beaked redfish,
+Atlantic Ocean perch,
+Atlantic rosefish, Ocean
+perch, Atlantic ocean perch)",No,Grocerystore,halifax,2018,"Perch, Atlantic Ocean",Perch,Ocean perch,perch,0
+"Salmon, Pink","Oncorhynchus
+gorbuscha","Pink Salmon (Pink salmon,
+Pacific Pink salmon)",No,Grocerystore,halifax,2018,"Salmon, Pink",Salmon,Pink Salmon,Salmon,0
+"Salmon, Sockeye",Oncorhynchus nerka,"Sockeye salmon (Sockeye
+salmon, Red salmon, Red
+sockeye salmon)",No,Grocerystore,halifax,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Steelhead",Oncorhynchus mykiss,"Trout (Trout, Rainbow trout,
+Steelhead trout, Steelhead,
+Deep Sea Trout, Steelhead
+salmon)",No,Grocerystore,halifax,2018,"Salmon, Steelhead",Salmon,Trout,Trout,0
+Scallop,"Placopecten
+magellanicus","Scallop (Scallop, Atlantic
+scallop, Giant scallop, Sea
+scallop)",No,Restaurant,halifax,2018,Scallop,Scallop,Scallop,Scallop,0
+Scallop,"Placopecten
+magellanicus","Scallop (Scallop, Atlantic
+scallop, Giant scallop, Sea
+scallop)",No,Restaurant,halifax,2018,Scallop,Scallop,Scallop,Scallop,0
+Scallop,Mizuhopecten yessoensis,"Scallop (Scallop, Japanese
+scallop)",No,Restaurant,halifax,2018,Scallop,Scallop,Scallop,Scallop,0
+"Scallop, Atlantic Sea","Placopecten
+magellanicus","Scallop (Scallop, Atlantic
+scallop, Giant scallop, Sea
+scallop)",No,Grocerystore,halifax,2018,"Scallop, Atlantic Sea",Scallop,Scallop,Scallop,0
+"Scallop, Bay",Argopecten irradians,"Bay scallop (Scallop, Bay
+scallop)",No,Grocerystore,halifax,2018,"Scallop, Bay",Scallop,Bay scallop,Scallop,0
+"Scallop, Digby","Placopecten
+magellanicus","Scallop (Scallop, Atlantic
+scallop, Giant scallop, Sea
+scallop)",No,Grocerystore,halifax,2018,"Scallop, Digby",Scallop,Scallop,Scallop,0
+"Scallop, Digby","Placopecten
+magellanicus","Scallop (Scallop, Atlantic
+scallop, Giant scallop, Sea
+scallop)",No,Restaurant,halifax,2018,"Scallop, Digby",Scallop,Scallop,Scallop,0
+"Scallop, Digby","Placopecten
+magellanicus","Scallop (Scallop, Atlantic
+scallop, Giant scallop, Sea
+scallop)",No,Grocerystore,halifax,2018,"Scallop, Digby",Scallop,Scallop,Scallop,0
+"Scallop, Digby","Placopecten
+magellanicus","Scallop (Scallop, Atlantic
+scallop, Giant scallop, Sea
+scallop)",No,Restaurant,halifax,2018,"Scallop, Digby",Scallop,Scallop,Scallop,0
+"Scallop, Sea","Placopecten
+magellanicus","Sea scallop (Scallop, Sea
+scallop, Atlantic scallop,
+Giant scallop)",No,Restaurant,halifax,2018,"Scallop, Sea",Scallop,Sea scallop,Scallop,0
+"Scallop, Sea","Placopecten
+magellanicus","Sea scallop (Scallop, Sea
+scallop, Atlantic scallop,
+Giant scallop)",No,Restaurant,halifax,2018,"Scallop, Sea",Scallop,Sea scallop,Scallop,0
+Seabass,"Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish (Sutchi
+catfish, Basa, Swai,
+Pangasius)",Yes,Restaurant,halifax,2018,Seabass,Bass,Striped catfish,Catfish,1
+Seabass,"Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish (Sutchi
+catfish, Basa, Swai,
+Pangasius)",Yes,Restaurant,halifax,2018,Seabass,Bass,Striped catfish,Catfish,1
+"Seabass,
+Mediterranean",Dicentrarchus labrax,"European seabass (Sea
+bass)",No,Restaurant,halifax,2018,"Seabass,
+Mediterranean",Bass,European seabass,seabass,0
+Snapper,Orechromis sp.,Tilapia,Yes,Restaurant,halifax,2018,Snapper,Snapper,Tilapia,Tilapia,1
+Snapper,Orechromis sp.,Tilapia,Yes,Restaurant,halifax,2018,Snapper,Snapper,Tilapia,Tilapia,1
+"Snapper, Red",Orechromis sp.,Tilapia,Yes,Restaurant,halifax,2018,"Snapper, Red",Snapper,Tilapia,Tilapia,1
+"Snapper, Red",Orechromis sp.,Tilapia,Yes,Restaurant,halifax,2018,"Snapper, Red",Snapper,Tilapia,Tilapia,1
+"Snapper, Red",Orechromis sp.,Tilapia,Yes,Restaurant,halifax,2018,"Snapper, Red",Snapper,Tilapia,Tilapia,1
+"Snapper, Red",Orechromis sp.,Tilapia,Yes,Restaurant,halifax,2018,"Snapper, Red",Snapper,Tilapia,Tilapia,1
+Sole,"Glyptocephalus
+cynoglossus","Sole (Sole, Witch flounder,
+Flounder, Witch, Greysole)",No,Grocerystore,halifax,2018,Sole,Sole,Sole,Sole,0
+"Trout, Steelhead",Oncorhynchus mykiss,"Trout (Trout, Rainbow trout,
+Steelhead trout, Steelhead,
+Deep Sea Trout, Steelhead
+salmon)",No,Grocerystore,halifax,2018,"Trout, Steelhead",Trout,Trout,Trout,0
+"Tuna, Bluefin",Thunnus albacares,"Yellowfin tuna (Tuna,
+Yellowfin tuna, Yellowfin)",Yes,Restaurant,halifax,2018,"Tuna, Bluefin",Tuna,Yellowfin tuna,tuna ,1
+"Tuna, Bluefin",Thunnus thynnus,"Bluefin tuna (Tuna, Bluefin
+tuna, Atlantic bluefin tuna,
+Northern bluefin tuna)",No,Restaurant,halifax,2018,"Tuna, Bluefin",Tuna,Bluefin tuna,tuna ,0
+"Tuna, White","Lepidocybium
+Flavobrunneum","Escolar (Escolar, Snake
+mackerel)",Yes,Restaurant,halifax,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White",Thunnus 6lalonga,"Tuna (Tuna, Albacore tuna,
+Albacore)","Yes – White tuna not acceptable
+market name",Restaurant,halifax,2018,"Tuna, White",Tuna,Tuna,tuna ,0
+"Tuna, White",Thunnus 6lalonga,"Tuna (Tuna, Albacore tuna,
+Albacore)","Yes – White tuna not acceptable
+market name",Restaurant,halifax,2018,"Tuna, White",Tuna,Tuna,tuna ,0
+"Tuna, White","Lepidocybium
+Flavobrunneum","Escolar (Escolar, Snake
+mackerel)",Yes,Restaurant,halifax,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, Yellowfin",Thunnus albacares,"Yellowfin tuna (Tuna,
+Yellowfin tuna, Yellowfin)",No,Fishmarket,halifax,2018,"Tuna, Yellowfin",Tuna,Yellowfin tuna,tuna ,0
+Turbot,"Reinhardtius
+hippoglossoides","Turbot (Turbot, Greenland
+turbot, Black turbot,
+American turbot,
+Newfoundland turbot)",No,Restaurant,halifax,2018,Turbot,Turbot,Turbot,Turbot,0
+White fish,Orechromis sp.,Tilapia,Yes,Restaurant,halifax,2018,White fish,White fish,Tilapia,Tilapia,1
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,halifax,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,halifax,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,halifax,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,halifax,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,halifax,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+Arctic char,Salverus alpirus,"Arctic char (Arctic char,
+char)",No,Restaurant,ottawa,2018,Arctic char,char,Arctic char,Char,0
+Arctic char,Salverus alpirus,"Arctic char (Arctic char,
+char)",No,Restaurant,ottawa,2018,Arctic char,char,Arctic char,Char,0
+Arctic char,Salverus alpirus,"Arctic char (Arctic char,
+char)",No,Restaurant,ottawa,2018,Arctic char,char,Arctic char,Char,0
+Arctic char,Salverus alpirus,"Arctic char (Arctic char,
+char)",No,Grocerystore,ottawa,2018,Arctic char,char,Arctic char,Char,0
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,ottawa,2018,Butterfish,Butterfish,Escolar,Escolar,1
+"Cod, Fogo Island",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,ottawa,2018,"Cod, Fogo Island",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,ottawa,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Icelandic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,ottawa,2018,"Cod, Icelandic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,"Restaurant
+(food
+truck)",ottawa,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus macrocephalus,"Pacific cod (Pacific cod,
+cod)",Yes,Restaurant,ottawa,2018,"Cod, Atlantic",Cod,Pacific cod,Cod,1
+"Cod, Pacific",Micromesistius australis,"Southern blue whiting
+(Southern blue whiting,
+Blue whiting, Blue cod)",Yes,Restaurant,ottawa,2018,"Cod, Pacific",Cod,"Southern blue whiting
+","whiting
+",1
+"Cod, Norwegian",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,ottawa,2018,"Cod, Norwegian",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,ottawa,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Restaurant,ottawa,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Alaskan",Gadus macrocephalus,"Pacific cod (Pacific cod,
+cod)",No,Grocerystore,ottawa,2018,"Cod, Alaskan",Cod,Pacific cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Pacific cod,
+cod)",No,Grocerystore,ottawa,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Cod, North Atlantic",Gadus macrocephalus,"Pacific cod (Pacific cod,
+cod)",Yes,Restaurant,ottawa,2018,"Cod, North Atlantic",Cod,Pacific cod,Cod,1
+Cod,Gadus macrocephalus,"Pacific cod (Pacific cod,
+cod)",No,Grocerystore,ottawa,2018,Cod,Cod,Pacific cod,Cod,0
+"Cod, Icelandic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Grocerystore,ottawa,2018,"Cod, Icelandic",Cod,Atlantic cod,Cod,0
+"Cod, Icelandic",Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",No,Grocerystore,ottawa,2018,"Cod, Icelandic",Cod,Atlantic cod,Cod,0
+Euro Bass,Gadus morhua,"Atlantic cod (Atlantic cod,
+cod)",Yes,Restaurant,ottawa,2018,Euro Bass,Bass,Atlantic cod,Cod,1
+Grouper,Epinephelus diacanthus,Spinycheek grouper (n/a),"Yes – E. diacanthus not on CFIA’s
+fish list",Restaurant,ottawa,2018,Grouper,Grouper,Spinycheek grouper,grouper,0
+"Grouper, Yellow Edge","Hyporthodus
+flavolimbatus",Yellowedge grouper (n/a),"Yes – H. flavolimbatus not on
+CFIA’s fish list",Grocerystore,ottawa,2018,"Grouper, Yellow Edge",Grouper,Yellowedge grouper,grouper,0
+Haddock,"Melanogrammus
+aeglefinus",Haddock (haddock),No,Grocerystore,ottawa,2018,Haddock,Haddock,Haddock,Haddock,0
+Hake,Urophycis tenuis,White hake (White hake),"Yes – not in Hake genus
+(Merluccius )",Grocerystore,ottawa,2018,Hake,Hake,White hake,hake,0
+"Halibut, Atlantic",Hippoglossus stenolepis,"Pacific halibut (Pacific
+halibut, halibubt)",Yes,Restaurant,ottawa,2018,"Halibut, Atlantic",Halibut,Pacific halibut,Halibut,1
+Halibut,Hippoglossus stenolepis,"Pacific halibut (Pacific
+halibut, halibut)",No,Grocerystore,ottawa,2018,Halibut,Halibut,Pacific halibut,Halibut,0
+"Halibut, Pacific","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, halibut)",Yes,Restaurant,ottawa,2018,"Halibut, Pacific",Halibut,Atlantic halibut,Halibut,1
+"Halibut, Pacific","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, halibut)",Yes,Restaurant,ottawa,2018,"Halibut, Pacific",Halibut,Atlantic halibut,Halibut,1
+"Halibut, Atlantic",Hippoglossus stenolepis,"Pacific halibut (Pacific
+halibut, halibubt)",Yes,Restaurant,ottawa,2018,"Halibut, Atlantic",Halibut,Pacific halibut,Halibut,1
+Halibut,Hippoglossus stenolepis,"Pacific halibut (Pacific
+halibut, halibut)",No,Grocerystore,ottawa,2018,Halibut,Halibut,Pacific halibut,Halibut,0
+Halibut,"Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, halibut)",No,Grocerystore,ottawa,2018,Halibut,Halibut,Atlantic halibut,Halibut,0
+Pickerel,Sander lucioperca,"Pike-perch (Pike-perch,
+European Walleye,
+European Pickerel, Zander)",Yes,Restaurant,ottawa,2018,Pickerel,Pickerel,Pike,Pike,1
+Rainbow trout,Oncorhynchus mykiss,"Rainbow trout (Rainbow
+trout, Steelhead, Steelhead
+salmon, Steelhead trout,
+Trout, Deep Sea Trout)",No,Restaurant,ottawa,2018,Rainbow trout,Trout,Rainbow trout,Trout,0
+Rainbow trout,Oncorhynchus mykiss,"Rainbow trout (Rainbow
+trout, Steelhead, Steelhead
+salmon, Steelhead trout,
+Trout, Deep Sea Trout)",No,Restaurant,ottawa,2018,Rainbow trout,Trout,Rainbow trout,Trout,0
+Black cod,Anoplopoma fimbria,"Sablefish (Sablefish, Black
+cod)",No,Restaurant,ottawa,2018,Black cod,Cod,Sablefish,Sablefish,0
+Sablefish,Anoplopoma fimbria,"Sablefish (Sablefish, Black
+cod)",No,Restaurant,ottawa,2018,Sablefish,Sablefish,Sablefish,Sablefish,0
+Sea Bass,Dicentrarchus labrax,European Bass (Sea Bass),No,Restaurant,ottawa,2018,Sea Bass,Bass,European Bass,Bass,0
+"Salmon, Wild",Salmo salar,"Atlantic salmon (Atlantic
+salmon, salmon)","Yes – wild salmon can only be
+Pacific. This in fact was Atlantic",Restaurant,ottawa,2018,"Salmon, Wild",Salmon,Atlantic salmon,Salmon,0
+"Salmon, Sockeye
+Pacific",Oncorhynchus nerka,"Sockeye salmon (Red
+salmon, Red sockeye
+salmon, Sockeye salmon)",No,Restaurant,ottawa,2018,"Salmon, Sockeye
+Pacific",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Pacific",Oncorhyncus keta,"Chum salmon (Chum
+salmon, Keta salmon,
+Silverbrite salmon)","Yes - species information required
+by CFIA for Pacific salmon",Restaurant,ottawa,2018,"Salmon, Pacific",Salmon,Chum salmon,Salmon,0
+"Salmon, Coho",Oncorhynchus nerka,"Sockeye salmon (Red
+salmon, Red sockeye
+salmon, Sockeye salmon)","Yes - species information
+required by CFIA for Pacific
+salmon",Restaurant,ottawa,2018,"Salmon, Coho",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Sockeye",Oncorhynchus nerka,"Sockeye salmon (Red
+salmon, Red sockeye
+salmon, Sockeye salmon)",No,Grocerystore,ottawa,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Wild",Oncorhyncus keta,"Chum salmon (Chum
+salmon, Keta salmon,
+Silverbrite salmon)","Yes - species information required
+by CFIA for Pacific salmon",Restaurant,ottawa,2018,"Salmon, Wild",Salmon,Chum salmon,Salmon,0
+"Salmon, Pacific Pink","Oncorhynchus
+gorbuscha","Pink salmon (Pacific Pink
+salmon, Pink salmon)",No,Grocerystore,ottawa,2018,"Salmon, Pacific Pink",Salmon,Pink salmon,Salmon,0
+"Salmon, Keta",Oncorhyncus keta,"Chum salmon (Chum
+salmon, Keta salmon,
+Silverbrite salmon)",No,Grocerystore,ottawa,2018,"Salmon, Keta",Salmon,Chum salmon,Salmon,0
+"Salmon, Sockeye",Oncorhynchus nerka,"Sockeye salmon (Red
+salmon, Red sockeye
+salmon, Sockeye salmon)",No,Grocerystore,ottawa,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Pacific Pink","Oncorhynchus
+gorbuscha","Pink salmon (Pacific Pink
+salmon, Pink salmon)",No,Grocerystore,ottawa,2018,"Salmon, Pacific Pink",Salmon,Pink salmon,Salmon,0
+"Salmon, Pink",Oncorhyncus keta,"Chum salmon (Chum
+salmon, Keta salmon,
+Silverbrite salmon)",Yes,Grocerystore,ottawa,2018,"Salmon, Pink",Salmon,Chum salmon,Salmon,1
+"Salmon, Pink","Oncorhynchus
+gorbuscha","Pink salmon (Pacific Pink
+salmon, Pink salmon)",No,Grocerystore,ottawa,2018,"Salmon, Pink",Salmon,Pink salmon,Salmon,0
+"Salmon, Sockeye",Oncorhynchus nerka,"Sockeye salmon (Red
+salmon, Red sockeye
+salmon, Sockeye salmon)",No,Grocerystore,ottawa,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+Snapper,Oreochromis aureus,Blue tilapia (n/a),"Yes – species substitution; O.
+aureus not on CFIA’s fish list",Restaurant,ottawa,2018,Snapper,Snapper,Blue tilapia,Tilapia,0
+"Snapper, BC",Sebastes alutus,"Pacific ocean perch
+(Rockfish, Rosefish, Redfish,
+Ocean perch, Pacific Ocean
+perch)",Yes,Grocerystore,ottawa,2018,"Snapper, BC",Snapper,"Pacific ocean perch
+",perch,1
+Snapper,"Pristipomoides
+filamentosus",Crimson jobfish (n/a),"Yes – P. filamentosus not on
+CFIA’s fish list",Restaurant,ottawa,2018,Snapper,Snapper,Crimson jobfish,jobfish,0
+Snapper,Oreochromis niloticus,"Nile tilapia (Nile tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,Snapper,Snapper,Nile tilapia,Tilapia,1
+"Snapper, Red",Lutjanus synagris,"Lane snapper (Lane
+snapper, snapper)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,Lane snapper,Snapper,1
+"Snapper, Red","Sebastes reedi or S.
+polyspinis or S.crameri","Rockfish
+S. reedi: (Rockfish, Pacific
+Red snapper, Rosefish,
+Yellowmouth rockfish)
+S. polyspinis: (Rockfish,
+Northern rockfish)
+S.crameri: (Rockfish,
+Darkblotched rockfish,
+Pacific snapper)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,"Rockfish
+S. reedi:",reedi:,1
+"Snapper, Red",Oreochromis niloticus,"Nile tilapia (Nile tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,Nile tilapia,Tilapia,1
+"Snapper, Red","Oreochromis
+mossambicus","Mozambique tilapia
+(Mozambique tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,"Mozambique tilapia
+",Tilapia,1
+"Snapper, Red",Sebastes alutus,"Pacific ocean perch
+(Rockfish, Rosefish, Redfish,
+Ocean perch, Pacific Ocean
+perch)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,"Pacific ocean perch
+",perch,1
+"Snapper, Red","Oreochromis
+mossambicus","Mozambique tilapia
+(Mozambique tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,"Mozambique tilapia
+",Tilapia,1
+"Snapper, Red",Oreochromis niloticus,"Nile tilapia (Nile tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,Nile tilapia,Tilapia,1
+"Snapper, Red",Oreochromis niloticus,"Nile tilapia (Nile tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,Nile tilapia,Tilapia,1
+"Snapper, Red",Oreochromis niloticus,"Nile tilapia (Nile tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,"Snapper, Red",Snapper,Nile tilapia,Tilapia,1
+"Sole, Dover",Solea solea,(n/a),"Yes - S. solea not on CFIA’s fish
+list",Restaurant,ottawa,2018,"Sole, Dover",Sole,,,0
+Sole,Limanda aspera,"Yellowfin sole (Sole,
+flounder, Yellowfin sole)",No,Restaurant,ottawa,2018,Sole,Sole,Yellowfin sole,Sole,0
+"Sole - Microstomus
+Pacificus",Lepidopsetta bilineata,"Rock sole (Rock sole, sole,
+flounder)",Yes,Grocerystore,ottawa,2018,Sole ,Sole,Rock sole,Sole,1
+Sole,"Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish (Pangasius,
+Basa, Sutchi catfish)",Yes,Restaurant,ottawa,2018,Sole,Sole,Striped catfish,Catfish,1
+"Sole, Rock",Lepidopsetta bilineata,"Rock sole (Rock sole, sole,
+flounder)",No,Grocerystore,ottawa,2018,"Sole, Rock",Sole,Rock sole,Sole,0
+Sole,Limanda aspera,"Yellowfin sole (Sole,
+flounder, Yellowfin sole)",No,Grocerystore,ottawa,2018,Sole,Sole,Yellowfin sole,Sole,0
+Sole,"Hippoglossoides
+elassodon or
+Hippoglossoides robustus","Sole
+H. elassodon (Flathead sole,
+sole, flounder)
+Hippoglossoides robustus:
+Bering flounder (n/a)","No (though Hi. Robustus not on
+CFIA’s fish list, positive ID couldn’t
+be made)",Grocerystore,ottawa,2018,Sole,Sole,"Sole
+H. elassodon",elassodon,0
+Sole,"Hippoglossoides
+elassodon or
+Hippoglossoides robustus","Sole
+H. elassodon (Flathead sole,
+sole, flounder)
+Hippoglossoides robustus:
+Bering flounder (n/a)","No (though H. Robustus not on
+CFIA’s fish list, positive ID couldn’t
+be made)",Grocerystore,ottawa,2018,Sole,Sole,"Sole
+H. elassodon",elassodon,0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, Albacore White",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore White",Tuna,Albacore tuna,tuna ,0
+"Tuna, Yellow Tail",Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,ottawa,2018,"Tuna, Yellow Tail",Tuna,"Japanese Amberjack
+",Amberjack,1
+"Tuna, Yellowfin",Thunnus albacares,"Yellowfin tuna (Yellowfin,
+Yellowfin tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Yellowfin",Tuna,Yellowfin tuna,tuna ,0
+"Tuna, Red",Thunnus obesus,"Bigeye tuna (Bigeye tuna,
+tuna)","Yes – Red tuna not acceptable
+market name",Restaurant,ottawa,2018,"Tuna, Red",Tuna,Bigeye tuna,tuna ,0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, Red",Thunnus albacares,"Yellowfin tuna (Yellowfin,
+Yellowfin tuna, tuna)","Yes – Red tuna not acceptable
+market name",Restaurant,ottawa,2018,"Tuna, Red",Tuna,Yellowfin tuna,tuna ,0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, Bigeye",Thunnus obesus,"Bigeye tuna (Bigeye tuna,
+tuna)",No,Restaurant,ottawa,2018,"Tuna, Bigeye",Tuna,Bigeye tuna,tuna ,0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+Tuna,Thunnus albacares,"Yellowfin tuna (Yellowfin,
+Yellowfin tuna, tuna)",No,Restaurant,ottawa,2018,Tuna,Tuna,Yellowfin tuna,tuna ,0
+"Tuna, Yellowfin",Thunnus albacares,"Yellowfin tuna (Yellowfin,
+Yellowfin tuna, tuna)",No,Grocerystore,ottawa,2018,"Tuna, Yellowfin",Tuna,Yellowfin tuna,tuna ,0
+Tuna,Thunnus obesus,"Bigeye tuna (Bigeye tuna,
+tuna)",No,Grocerystore,ottawa,2018,Tuna,Tuna,Bigeye tuna,tuna ,0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, BC Albacore",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)",No,Restaurant,ottawa,2018,"Tuna, BC Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+mackerel)",Yes,Restaurant,ottawa,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+mackerel)",Yes,Restaurant,ottawa,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+mackerel)",Yes,Restaurant,ottawa,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+mackerel)",Yes,Restaurant,ottawa,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White",Thunnus alalunga,"Albacore tuna (Albacore,
+Albacore tuna, tuna)","Yes - White tuna not acceptable
+market name",Restaurant,ottawa,2018,"Tuna, White",Tuna,Albacore tuna,tuna ,0
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,ottawa,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,ottawa,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+Yellowtail,Seriola quinqueradiata,"Japanese Amberjack
+(Japanese Amberjack)",Yes,Restaurant,ottawa,2018,Yellowtail,Yellowtail,"Japanese Amberjack
+",Amberjack,1
+White fish,Oreochromis niloticus,"Nile tilapia (Nile tilapia,
+tilapia)",Yes,Restaurant,ottawa,2018,White fish,fish,Nile tilapia,Tilapia,1
+Amberjack,Seriola dumerili,"Amberjack (Rudderfish,
+Greater amberjack,
+Amberjack)",No,Restaurant,toronto,2018,Amberjack,Amberjack,Amberjack,Amberjack,0
+Black Cod,"Hippoglossus
+stenolepis","Pacific halibut (Halibut,
+Pacific halibut)",Yes,Restaurant,toronto,2018,Black Cod,Cod,Pacific halibut,Halibut,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Butterfish,"Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,Butterfish,Butterfish,Escolar,Escolar,1
+Cod,Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Grocerystore,toronto,2018,Cod,Cod,Atlantic cod,Cod,0
+"Cod, Atlantic","Gadus
+macrocephalus","Pacific cod (Pacific cod,
+Cod)",Yes,Grocerystore,toronto,2018,"Cod, Atlantic",Cod,Pacific cod,Cod,1
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Grocerystore,toronto,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Grocerystore,toronto,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Atlantic",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Grocerystore,toronto,2018,"Cod, Atlantic",Cod,Atlantic cod,Cod,0
+"Cod, Fogo",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Restaurant,toronto,2018,"Cod, Fogo",Cod,Atlantic cod,Cod,0
+"Cod, Fogo Island",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Restaurant,toronto,2018,"Cod, Fogo Island",Cod,Atlantic cod,Cod,0
+"Cod, Icelandic",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Grocerystore,toronto,2018,"Cod, Icelandic",Cod,Atlantic cod,Cod,0
+"Cod, Icelandic",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Grocerystore,toronto,2018,"Cod, Icelandic",Cod,Atlantic cod,Cod,0
+"Cod, Icelandic",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",No,Grocerystore,toronto,2018,"Cod, Icelandic",Cod,Atlantic cod,Cod,0
+"Cod, Pacific","Ophiodon
+elongatus",Lingcod (Lingcod),Yes,Restaurant,toronto,2018,"Cod, Pacific",Cod,Lingcod,Lingcod,1
+"Cod, Pacific",Gadus morhua,"Atlantic cod (Atlantic cod,
+Cod)",Yes,Restaurant,toronto,2018,"Cod, Pacific",Cod,Atlantic cod,Cod,1
+"Cod, Pacific","Melanogrammus
+aeglefinus",Haddock (Haddock),Yes,Restaurant,toronto,2018,"Cod, Pacific",Cod,Haddock,Haddock,1
+Flounder,"Paralichthys
+dentatus","Summer flounder
+(Summer flounder, Fluke,
+Flounder)",No,Grocerystore,toronto,2018,Flounder,Flounder,"Summer flounder
+",flounder,0
+Grouper,"Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish (Pangasius,
+Basa, Sutchi catfish)",Yes,Restaurant,toronto,2018,Grouper,Grouper,Striped catfish,Catfish,1
+Grouper,"Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish (Pangasius,
+Basa, Sutchi catfish)",Yes,Restaurant,toronto,2018,Grouper,Grouper,Striped catfish,Catfish,1
+"Grouper, Yellow","Hyporthodus
+flavolimbatus","Yellowedge
+grouper (n/a)",Yes - not on CFIA's Fish List,Grocerystore,toronto,2018,"Grouper, Yellow",Grouper,"Yellowedge
+grouper",grouper,0
+Halibut,"Paralichthys
+californicus","California flounder
+(Flounder, California
+flounder, California
+halibut)",Yes,Restaurant,toronto,2018,Halibut,Halibut,"California flounder
+",flounder,1
+"Halibut, Atlantic","Reinhardtius
+hippoglossoides","Greenland turbot
+(Greenland turbot, Black
+turbot, Turbot, American
+turbot, Newfoundland
+turbot)",Yes,Restaurant,toronto,2018,"Halibut, Atlantic",Halibut,"Greenland turbot
+",Turbot,1
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, Halibut)",No,Fishmarket,toronto,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, Halibut)",No,Restaurant,toronto,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Atlantic","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, Halibut)",No,Restaurant,toronto,2018,"Halibut, Atlantic",Halibut,Atlantic halibut,Halibut,0
+"Halibut, Haida Gwaii","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, Halibut)",Yes,Restaurant,toronto,2018,"Halibut, Haida Gwaii",Halibut,Atlantic halibut,Halibut,1
+"Halibut, Pacific","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, Halibut)",Yes,Restaurant,toronto,2018,"Halibut, Pacific",Halibut,Atlantic halibut,Halibut,1
+"Halibut, Pacific","Hippoglossus
+hippoglossus","Atlantic halibut (Atlantic
+halibut, Halibut)",Yes,Restaurant,toronto,2018,"Halibut, Pacific",Halibut,Atlantic halibut,Halibut,1
+"Halibut, Pacific","Hippoglossus
+stenolepis","Pacific halibut (Pacific
+halibut, Halibut)",No,Grocerystore,toronto,2018,"Halibut, Pacific",Halibut,Pacific halibut,Halibut,0
+"Halibut, Pacific","Hippoglossus
+stenolepis","Pacific halibut (Pacific
+halibut, Halibut)",No,Grocerystore,toronto,2018,"Halibut, Pacific",Halibut,Pacific halibut,Halibut,0
+Pickerel,Sander vitreus,"Pickerel (Yellow pickerel,
+Walleye pike, Walleye,
+Pickerel)",No,Grocerystore,toronto,2018,Pickerel,Pickerel,Pickerel,Pickerel,0
+Pickerel,Sander vitreus,"Pickerel (Yellow pickerel,
+Walleye pike, Walleye,
+Pickerel)",No,Restaurant,toronto,2018,Pickerel,Pickerel,Pickerel,Pickerel,0
+Pickerel,Sander vitreus,"Pickerel (Yellow pickerel,
+Walleye pike, Walleye,
+Pickerel)",No,Grocerystore,toronto,2018,Pickerel,Pickerel,Pickerel,Pickerel,0
+"Rockfish, Pacific",Sebastes reedi,"Yellowmouth
+Rockfish (Rosefish,
+Rockfish, Pacific Red
+Snapper, Yellowmouth
+rockfish)",No,Grocerystore,toronto,2018,"Rockfish, Pacific",Rockfish,"Yellowmouth
+Rockfish","rockfish
+",0
+"Salmon, BC",Salmo salar,"Atlantic salmon (Atlantic
+salmon, salmon)",Yes,Restaurant,toronto,2018,"Salmon, BC",Salmon,Atlantic salmon,Salmon,1
+"Salmon, Chinook",Salmo salar,"Atlantic salmon (Atlantic
+salmon, salmon)",Yes,Restaurant,toronto,2018,"Salmon, Chinook",Salmon,Atlantic salmon,Salmon,1
+"Salmon, Chinook","Oncorhynchus
+tshawytscha","Chinook salmon (Pink
+chinook, King salmon,
+Chinook salmon, Spring
+salmon, Chinook, Red
+Chinook, White Chinook)",No,Restaurant,toronto,2018,"Salmon, Chinook",Salmon,Chinook salmon,Salmon,0
+"Salmon, Coho","Oncorhynchus
+kisutch","Coho salmon (Coho
+salmon, Medium red coho
+salmon, Blueback salmon)",No,Restaurant,toronto,2018,"Salmon, Coho",Salmon,Coho salmon,Salmon,0
+"Salmon, Coho","Oncorhynchus
+kisutch","Coho salmon (Coho
+salmon, Medium red coho
+salmon, Blueback salmon)",No,Grocerystore,toronto,2018,"Salmon, Coho",Salmon,Coho salmon,Salmon,0
+"Salmon, Coho","Oncorhynchus
+kisutch","Coho salmon (Coho
+salmon, Medium red coho
+salmon, Blueback salmon)",No,Grocerystore,toronto,2018,"Salmon, Coho",Salmon,Coho salmon,Salmon,0
+"Salmon, King","Oncorhynchus
+tshawytscha","Chinook salmon (Pink
+chinook, King salmon,
+Chinook salmon, Spring
+salmon, Chinook, Red
+Chinook, White Chinook)",No,Restaurant,toronto,2018,"Salmon, King",Salmon,Chinook salmon,Salmon,0
+"Salmon, Ora King","Oncorhynchus
+tshawytscha","Chinook salmon (Pink
+chinook, King salmon,
+Chinook salmon, Spring
+salmon, Chinook, Red
+Chinook, White Chinook)",No,Restaurant,toronto,2018,"Salmon, Ora King",Salmon,Chinook salmon,Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon (Sockeye
+salmon, Red salmon, Red
+sockeye salmon)",No,Restaurant,toronto,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, sockeye","Oncorhynchus
+nerka","Sockeye salmon (Sockeye
+salmon, Red salmon, Red
+sockeye salmon)",No,Restaurant,toronto,2018,"Salmon, sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon (Sockeye
+salmon, Red salmon, Red
+sockeye salmon)",No,Restaurant,toronto,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon (Sockeye
+salmon, Red salmon, Red
+sockeye salmon)",No,Grocerystore,toronto,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon (Sockeye
+salmon, Red salmon, Red
+sockeye salmon)",No,Grocerystore,toronto,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon (Sockeye
+salmon, Red salmon, Red
+sockeye salmon)",No,Restaurant,toronto,2018,"Salmon, Sockeye",Salmon,Sockeye salmon,Salmon,0
+"Sea Bass, Chilean","Dissostichus
+mawsoni","Antarctic toothfish
+(Antarctic toothfish)",Yes,Restaurant,toronto,2018,"Sea Bass, Chilean",Bass,"Antarctic toothfish
+","toothfish
+",1
+"Sea Bass, Chilean","Dissostichus
+eleginoides","Patagonian
+toothfish (Patagonian
+toothfish)",Yes,Grocerystore,toronto,2018,"Sea Bass, Chilean",Bass,"Patagonian
+toothfish","toothfish
+",1
+Snapper,"Oreochromis
+niloticus","Nile tilapia (Nile tilapia,
+Tilapia)",Yes,Restaurant,toronto,2018,Snapper,Snapper,Nile tilapia,Tilapia,1
+Snapper,"Oreochromis
+niloticus","Nile tilapia (Nile tilapia,
+Tilapia)",Yes,Restaurant,toronto,2018,Snapper,Snapper,Nile tilapia,Tilapia,1
+Snapper,"Oreochromis
+mossambicus","Mozambique tilapia
+(Tilapia, Mozambique
+tilapia)",Yes,Restaurant,toronto,2018,Snapper,Snapper,"Mozambique tilapia
+",Tilapia,1
+"Snapper, Japanese",Pagrus major,"Japanese seabream
+(Genuine Porgy, Japanese
+seabream, Silver
+seabream)",Yes,Restaurant,toronto,2018,"Snapper, Japanese",Snapper,"Japanese seabream
+","seabream
+",1
+"Snapper, Pacific","Sebastes
+melanostictus","Blackspotted
+rockfish (n/a)",Yes - not on CFIA's Fish List,Grocerystore,toronto,2018,"Snapper, Pacific",Snapper,"Blackspotted
+rockfish","rockfish
+",0
+"Snapper, Red","Oreochromis
+mossambicus","Mozambique tilapia
+(Tilapia, Mozambique
+tilapia)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,"Mozambique tilapia
+",Tilapia,1
+"Snapper, Red","Rhomboplites
+aurorubens","Beeliner (Beeliner, B-liner)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,Beeliner,Beeliner,1
+"Snapper, Red",Lutjanus bohar,"Two-spotted red
+snapper; Twinspot
+Snapper (n/a)","Yes - species substitution and not
+on CFIA's Fish List",Restaurant,toronto,2018,"Snapper, Red",Snapper,Two,Two,0
+"Snapper, Red","Sebastes mentella
+or Sebastes
+norvegicus","S. mentella: Ocean perch
+(Rosefish, Beaked redfish,
+Atlantic Ocean perch,
+Atlantic rosefish, Redfish,
+Ocean perch) S.
+norvegicus: Golden redifsh
+(Rockfish, Golden redfish)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,"S. mentella: Ocean perch
+",perch,1
+"Snapper, Red","Rhomboplites
+aurorubens","Beeliner (Beeliner, B-liner)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,Beeliner,Beeliner,1
+"Snapper, Red","Oreochromis
+niloticus","Nile tilapia (Nile tilapia,
+Tilapia)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,Nile tilapia,Tilapia,1
+"Snapper, Red","Sebastes
+fasciatus","Acadian redfish (Rosefish,
+Ocean perch, Acadian
+redfish, Atlantic rosefish,
+Redfish, Atlantic ocean
+perch)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,Acadian redfish,redfish,1
+"Snapper, Red","Oreochromis
+niloticus","Nile tilapia (Nile tilapia,
+Tilapia)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,Nile tilapia,Tilapia,1
+"Snapper, Red","Rhomboplites
+aurorubens","Beeliner (Beeliner, B-liner)",Yes,Restaurant,toronto,2018,"Snapper, Red",Snapper,Beeliner,Beeliner,1
+"Snapper, Red","Oreochromis
+aureus",Blue tilapia (n/a),"Yes - species substitution and not
+on CFIA's Fish List",Restaurant,toronto,2018,"Snapper, Red",Snapper,Blue tilapia,Tilapia,0
+Sole,"Lepidopsetta
+polyxystra",Northern rock sole (n/a),Yes - not on CFIA's Fish List,Grocerystore,toronto,2018,Sole,Sole,Northern rock sole,Sole,0
+Sole,"Reinhardtius
+hippoglossoides","Greenland turbot
+(Greenland turbot, Black
+turbot, Turbot, American
+turbot, Newfoundland
+turbot)",Yes,Restaurant,toronto,2018,Sole,Sole,"Greenland turbot
+",Turbot,1
+"Sole, Dover",Solea solea,Common sole,Yes - not on CFIA's Fish List,Restaurant,toronto,2018,"Sole, Dover",Sole,Common sole,Sole,0
+"Sole, Dover",Solea solea,Common sole,Yes - not on CFIA's Fish List,Restaurant,toronto,2018,"Sole, Dover",Sole,Common sole,Sole,0
+"Sole, Dover",Solea solea,Common sole,Yes - not on CFIA's Fish List,Restaurant,toronto,2018,"Sole, Dover",Sole,Common sole,Sole,0
+"Sole, Dover",Solea solea,Common sole,Yes - not on CFIA's Fish List,Restaurant,toronto,2018,"Sole, Dover",Sole,Common sole,Sole,0
+Sole,"Hippoglossoides
+elassodon or
+Hippoglossoides
+robustus","Flathead sole or
+Bering flounder",No,Grocerystore,toronto,2018,Sole,Sole,"Flathead sole or
+Bering flounder",flounder,0
+Sole,"Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish (Pangasius,
+Basa, Sutchi catfish)",Yes,Restaurant,toronto,2018,Sole,Sole,Striped catfish,Catfish,1
+"Sole, Lemon","Paralichthys
+dentatus","Summer flounder
+(Summer flounder, Fluke,
+Flounder)",Yes,Fishmarket,toronto,2018,"Sole, Lemon",Sole,"Summer flounder
+",flounder,1
+"Trout, Ocean","Oncorhynchus
+mykiss","Rainbow trout (Rainbow
+trout, Trout, Steelhed
+trout, Steelhead, Deep sea
+trout, Steelhead salmon)","Yes - Ocean trout is not an
+acceptable market name",Restaurant,toronto,2018,"Trout, Ocean",Trout,Rainbow trout,Trout,0
+"Trout, Rainbow","Oncorhynchus
+mykiss","Rainbow trout (Rainbow
+trout, Trout, Steelhed
+trout, Steelhead, Deep sea
+trout, Steelhead salmon)",No,Restaurant,toronto,2018,"Trout, Rainbow",Trout,Rainbow trout,Trout,0
+"Trout, Rainbow","Oncorhynchus
+mykiss","Rainbow trout (Rainbow
+trout, Trout, Steelhed
+trout, Steelhead, Deep sea
+trout, Steelhead salmon)",No,Restaurant,toronto,2018,"Trout, Rainbow",Trout,Rainbow trout,Trout,0
+Tuna,"Thunnus
+albacares","Yellowfin tuna (Tuna,
+Yellowfin tuna, Yellowfin)",No,Restaurant,toronto,2018,Tuna,Tuna,Yellowfin tuna,tuna ,0
+"Tuna, Bluefin",Thunnus thynnus,"Atlantic bluefin tuna
+(Tuna, Atlantic bluefin
+tuna, Bluefin tuna,
+Northern bluefin tuna)",No,Restaurant,toronto,2018,"Tuna, Bluefin",Tuna,"Atlantic bluefin tuna
+",tuna ,0
+"Tuna, Bluefin",Thunnus thynnus,"Atlantic bluefin tuna
+(Tuna, Atlantic bluefin
+tuna, Bluefin tuna,
+Northern bluefin tuna)",No,Restaurant,toronto,2018,"Tuna, Bluefin",Tuna,"Atlantic bluefin tuna
+",tuna ,0
+"Tuna, Bluefin",Thunnus orientalis,"Pacific bluefin tuna
+(Pacific bluefin tuna,
+Bluefin tuna, Oriental
+tuna, Tuna)",No,Restaurant,toronto,2018,"Tuna, Bluefin",Tuna,"Pacific bluefin tuna
+",tuna ,0
+"Tuna, Red",Thunnus orientalis,"Pacific bluefin tuna
+(Pacific bluefin tuna,
+Bluefin tuna, Oriental
+tuna, Tuna)","Yes - Red tuna is not an
+acceptable market name",Restaurant,toronto,2018,"Tuna, Red",Tuna,"Pacific bluefin tuna
+",tuna ,0
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White","Oreochromis
+niloticus","Nile tilapia (Nile tilapia,
+Tilapia)",Yes,Restaurant,toronto,2018,"Tuna, White",Tuna,Nile tilapia,Tilapia,1
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+"Tuna, White","Lepidocybium
+flavobrunneum","Escolar (Escolar, Snake
+Mackerel)",Yes,Restaurant,toronto,2018,"Tuna, White",Tuna,Escolar,Escolar,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,toronto,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,toronto,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,toronto,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,toronto,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,toronto,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Black Cod,Anoplopoma fimbria,"Sablefish (Black cod,
+Sablefish)",No,Restaurant,vancouver,2018,Black Cod,Cod,Sablefish,Sablefish,0
+Black cod,Anoplopoma fimbria,"Sablefish (Black cod,
+Sablefish)",No,Restaurant,vancouver,2018,Black cod,Cod,Sablefish,Sablefish,0
+Cod,"Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish
+(Pangasius, Basa, Sutchi
+catfish)",Yes,Restaurant,vancouver,2018,Cod,Cod,"Striped catfish
+",Catfish,1
+"Cod, Pacific",Gadus morhua,"Atlantic cod (Atlantic
+cod, Cod)",Yes,Restaurant,vancouver,2018,"Cod, Pacific",Cod,Atlantic cod,Cod,1
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Pacific cod,
+Cod)",No,Restaurant,vancouver,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Pacific cod,
+Cod)",No,Grocerystore,vancouver,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Pacific cod,
+Cod)",No,Grocerystore,vancouver,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Pacific cod,
+Cod)",No,Grocerystore,vancouver,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Cod, Pacific",Gadus macrocephalus,"Pacific cod (Pacific cod,
+Cod)",No,Restaurant,vancouver,2018,"Cod, Pacific",Cod,Pacific cod,Cod,0
+"Crab, Dungeness",Metacarcinus edwardsii,Rock crab (n/a),"Yes - species substitution and not
+on CFIA's Fish List",Restaurant,vancouver,2018,"Crab, Dungeness",Crab,Rock crab,Crab,0
+"Crab, Dungeness","Metacarcinus (Cancer)
+magister","Dungeness Crab
+(Dungeness crab,
+Pacific crab, Crab)",No,Restaurant,vancouver,2018,"Crab, Dungeness",Crab,"Dungeness Crab
+",Crab,0
+"Crab, Snow",Chionoecetes opilio,"Snow crab (Opilio,
+Snow crab, Queen crab,
+Atlantic snow crab,
+crab)",No,Restaurant,vancouver,2018,"Crab, Snow",Crab,Snow crab,Crab,0
+Haddock,"Melanogrammus
+aeglefinus",Haddock (Haddock),No,Restaurant,vancouver,2018,Haddock,Haddock,Haddock,Haddock,0
+Halibut,Hippoglossus stenolepis,"Pacific halibut (Pacific
+halibut, Halibut)",No,Restaurant,vancouver,2018,Halibut,Halibut,Pacific halibut,Halibut,0
+"Halibut, Alaskan","Hippoglossus
+stenolepis","Pacific halibut (Pacific
+halibut, Halibut)",No,Restaurant,vancouver,2018,"Halibut, Alaskan",Halibut,Pacific halibut,Halibut,0
+"Halibut, Atlantic",Hippoglossus stenolepis,"Pacific halibut (Pacific
+halibut, Halibut)",Yes,Grocerystore,vancouver,2018,"Halibut, Atlantic",Halibut,Pacific halibut,Halibut,1
+"Halibut, Atlantic",Hippoglossus stenolepis,"Pacific halibut (Pacific
+halibut, Halibut)",Yes,Restaurant,vancouver,2018,"Halibut, Atlantic",Halibut,Pacific halibut,Halibut,1
+"Halibut, Pacific","Melanogrammus
+aeglefinus",Haddock (Haddock),Yes,Restaurant,vancouver,2018,"Halibut, Pacific",Halibut,Haddock,Haddock,1
+"Halibut, Pacific","Hippoglossus
+stenolepis","Pacific halibut (Pacific
+halibut, Halibut)",No,Restaurant,vancouver,2018,"Halibut, Pacific",Halibut,Pacific halibut,Halibut,0
+"Halibut, Pacific","Hippoglossus
+stenolepis","Pacific halibut (Pacific
+halibut, Halibut)",No,Grocerystore,vancouver,2018,"Halibut, Pacific",Halibut,Pacific halibut,Halibut,0
+Lingcod,Ophiodon elongatus,Lingcod (Lingcod),No,Restaurant,vancouver,2018,Lingcod,Cod,Lingcod,Lingcod,0
+Monkfish,Lophius americanus,"Monkfish (Monkfish,
+Monk, Stargazer)",No,Restaurant,vancouver,2018,Monkfish,Monkfish,Monkfish,Monkfish,0
+"Prawn, Spot",Pandalus platyceros,"Spot prawn (Spot
+shrimp, Spot Prawn,
+Prawn, Shrimp)",No,Restaurant,vancouver,2018,"Prawn, Spot",Prawn,Spot prawn,prawn,0
+"Prawn, Spot",Pandalus platyceros,"Spot prawn (Spot
+shrimp, Spot Prawn,
+Prawn, Shrimp)",No,Restaurant,vancouver,2018,"Prawn, Spot",Prawn,Spot prawn,prawn,0
+"Prawn, Spot",Pandalus platyceros,"Spot prawn (Spot
+shrimp, Spot Prawn,
+Prawn, Shrimp)",No,Restaurant,vancouver,2018,"Prawn, Spot",Prawn,Spot prawn,prawn,0
+"Prawn, BC Spot",Pandalus platyceros,"Spot prawn (Spot
+shrimp, Spot Prawn,
+Prawn, Shrimp)",No,Restaurant,vancouver,2018,"Prawn, BC Spot",Prawn,Spot prawn,prawn,0
+"Prawn, BC Spot",Pandalus platyceros,"Spot prawn (Spot
+shrimp, Spot Prawn,
+Prawn, Shrimp)",No,Restaurant,vancouver,2018,"Prawn, BC Spot",Prawn,Spot prawn,prawn,0
+Sablefish,Anoplopoma fimbria,"Sablefish (Black cod,
+Sablefish)",,Restaurant,vancouver,2018,Sablefish,Sablefish,Sablefish,Sablefish,0
+"Sablefish,Haida Gwaii",Anoplopoma fimbria,"Sablefish (Black cod,
+Sablefish)",No,Restaurant,vancouver,2018,"Sablefish,Haida Gwaii",Sablefish,Sablefish,Sablefish,0
+"Salmon, Chinook","Oncorhynchus
+tshawytscha","Chinook salmon (Pink
+chinook, King salmon,
+Chinook salmon, Spring
+salmon, Chinook, Red
+Chinook, White
+Chinook)",No,Grocerystore,vancouver,2018,"Salmon, Chinook",Salmon,Chinook salmon,Salmon,0
+"Salmon, Chum",Oncorhynchus keta,"Chum salmon (Chum
+salmon, Keta salmon,
+Silverbrite salmon)",No,Grocerystore,vancouver,2018,"Salmon, Chum",Salmon,Chum salmon,Salmon,0
+"Salmon, Coho","Oncorhynchus
+kisutch","Coho salmon (Coho
+salmon, Medium red
+coho salmon, Blueback
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Coho",Salmon,Coho salmon,Salmon,0
+"Salmon, King","Oncorhynchus
+tshawytscha","Chinook salmon (Pink
+chinook, King salmon,
+Chinook salmon, Spring
+salmon, Chinook, Red",No,Restaurant,vancouver,2018,"Salmon, King",Salmon,Chinook salmon,Salmon,0
+"Salmon, Sockeye",Oncorhynchus keta,"Chum salmon (Chum
+salmon, Keta salmon,
+Silverbrite salmon)",Yes,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,Chum salmon,Salmon,1
+"Salmon, Sockeye",Oncorhynchus mykiss,"Rainbow trout
+(Rainbow trout, Trout,
+Steelhed trout,
+Steelhead, Deep sea
+trout, Steelhead
+salmon)",Yes,Gift store,vancouver,2018,"Salmon, Sockeye",Salmon,"Rainbow trout
+",Trout,1
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Grocerystore,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Grocerystore,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Grocerystore,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Grocerystore,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red",No,Restaurant,vancouver,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Spring","Oncorhynchus
+tshawystcha","Chinook salmon (Pink
+chinook, King salmon,
+Chinook salmon, Spring
+salmon, Chinook, Red
+Chinook, White
+Chinook)",No,Restaurant,vancouver,2018,"Salmon, Spring",Salmon,Chinook salmon,Salmon,0
+"Salmon, Steelhead",Oncorhynchus mykiss,"Rainbow trout
+(Rainbow trout, Trout,
+Steelhed trout,
+Steelhead, Deep sea
+trout, Steelhead
+salmon)",No,Restaurant,vancouver,2018,"Salmon, Steelhead",Salmon,"Rainbow trout
+",Trout,0
+Scallop,Patinopecten yessoensis,"Japanese scallop
+(Japanese scallop,
+Scallop)",No,Restaurant,vancouver,2018,Scallop,Scallop,"Japanese scallop
+",Scallop,0
+Seabass,Decentratchus labrax,"European seabass (Sea
+bass)
+European seabass (Sea
+bass)",No,Restaurant,vancouver,2018,Seabass,Bass,European seabass,seabass,0
+Seabass,Decentratchus labrax,"European seabass (Sea
+bass)
+European seabass (Sea
+bass)",No,Restaurant,vancouver,2018,Seabass,Bass,European seabass,seabass,0
+"Seabass, Chilean","Dissostichus
+eleginoides","Patagonian
+toothfish (Patagonian
+toothfish)",Yes,Grocerystore,vancouver,2018,"Seabass, Chilean",Bass,"Patagonian
+toothfish","toothfish
+",1
+"Seabass, Mediterranean",Dicentrarchus labrax,"European seabass (Sea
+bass)",No,Restaurant,vancouver,2018,"Seabass, Mediterranean",Bass,European seabass,seabass,0
+Seabream,Pagrus major,"Japanese seabream
+(Genuine Porgy,
+Japanese seabream,
+Silver seabream)",Yes,Restaurant,vancouver,2018,Seabream,Seabream,"Japanese seabream
+","seabream
+",1
+Snapper,"Oreochromis
+niloticus","Nile tilapia (Nile tilapia,
+Tilapia)",Yes,Restaurant,vancouver,2018,Snapper,Snapper,Nile tilapia,Tilapia,1
+Snapper,Sebastes zacentrus,"Sharpchin rockfish
+(Sharpchin rockfish)",Yes,Grocerystore,vancouver,2018,Snapper,Snapper,"Sharpchin rockfish
+","rockfish
+",1
+Snapper,Sebastes brevispinis,"Silvergray rockfish
+(Pacific Snapper,
+Rockfish, Silvergray
+rockfish)",Yes,Grocerystore,vancouver,2018,Snapper,Snapper,"Silvergray rockfish
+","rockfish
+",1
+Snapper,"Oreochromis
+niloticus","Nile tilapia (Nile tilapia,
+Tilapia)",Yes,Restaurant,vancouver,2018,Snapper,Snapper,Nile tilapia,Tilapia,1
+Snapper,"Sebastes mystinus or
+Sebastes entomelas","S. mystinus: Blue
+rockfish (n/a); S.
+entomelas: Widow
+rockfish (Rockfish,
+Pacific Snapper, Widow
+rockfish)","Yes - S. mystinus not on CFIA Fish
+List; Snapper not acceptable
+market name for either",Restaurant,vancouver,2018,Snapper,Snapper,"S. mystinus: Blue
+rockfish","rockfish
+",0
+"Snapper, Pacific",Sebastes alutus,"Pacific ocean perch
+(Rockfish, Rosefish,
+Redfish, Ocean perch,
+Pacific Ocean perch)",Yes,Grocerystore,vancouver,2018,"Snapper, Pacific",Snapper,"Pacific ocean perch
+",perch,1
+"Snapper, Red",Oreochromis aureus,Blue tilapia (n/a),"Yes - species substitution and not
+on CFIA's Fish List",Restaurant,vancouver,2018,"Snapper, Red",Snapper,Blue tilapia,Tilapia,0
+"Snapper, Red",Pagrus major,"Japanese seabream
+(Genuine Porgy,
+Japanese seabream,
+Silver seabream)",Yes,Restaurant,vancouver,2018,"Snapper, Red",Snapper,"Japanese seabream
+","seabream
+",1
+Sole,Limanda aspera,"Yellowfin sole (Yellowfin
+sole, Sole, Flounder)",No,Grocerystore,vancouver,2018,Sole,Sole,Yellowfin sole,Sole,0
+Sole,Microstomus pacificus,"Dover sole (Flounder,
+Dover Sole, Sole)",No,Grocerystore,vancouver,2018,Sole,Sole,Dover sole,Sole,0
+Sole,Eopsetta jordani,"Petrale sole (Sole,
+Petrale sole, Flounder,
+Brill)",No,Grocerystore,vancouver,2018,Sole,Sole,Petrale sole,Sole,0
+Sole,Microstomus pacificus,"Dover sole (Flounder,
+Dover Sole, Sole)",No,Grocerystore,vancouver,2018,Sole,Sole,Dover sole,Sole,0
+Sole,Limanda aspera,"Yellowfin sole (Yellowfin
+sole, Sole, Flounder)",No,Grocerystore,vancouver,2018,Sole,Sole,Yellowfin sole,Sole,0
+"Sole, Pacific Dover",Microstomus pacificus,"Dover sole (Flounder,
+Dover Sole, Sole)",No,Grocerystore,vancouver,2018,"Sole, Pacific Dover",Sole,Dover sole,Sole,0
+"Sole, Petrale",Eopsetta jordani,"Petrale sole (Sole,
+Petrale sole, Flounder,
+Brill)",No,Restaurant,vancouver,2018,"Sole, Petrale",Sole,Petrale sole,Sole,0
+"Sole, Petrale",Eopsetta jordani,"Petrale sole (Sole,
+Petrale sole, Flounder,
+Brill)",No,Grocerystore,vancouver,2018,"Sole, Petrale",Sole,Petrale sole,Sole,0
+Steelhead,Oncorhynchus mykiss,"Rainbow trout
+(Rainbow trout, Trout,
+Steelhed trout,
+Steelhead, Deep sea
+trout, Steelhead
+salmon)",No,Restaurant,vancouver,2018,Steelhead,Steelhead,"Rainbow trout
+",Trout,0
+Swordfish,Xiphias gladius,Swordfish (Swordfish),No,Restaurant,vancouver,2018,Swordfish,Swordfish,Swordfish,Swordfish,0
+Tuna,Thunnus alalunga,"Albacore tuna
+(Albacore tuna, Tuna,
+Albacore)",No,Restaurant,vancouver,2018,Tuna,Tuna,"Albacore tuna
+",tuna ,0
+Tuna,Thunnus alalunga,"Albacore tuna
+(Albacore tuna, Tuna,
+Albacore)",No,Restaurant,vancouver,2018,Tuna,Tuna,"Albacore tuna
+",tuna ,0
+"Tuna, Bluefin",Thunnus orientalis,"Pacific bluefin tuna
+(Pacific bluefin tuna,
+Bluefin tuna, Oriental
+tuna, Tuna)",No,Restaurant,vancouver,2018,"Tuna, Bluefin",Tuna,"Pacific bluefin tuna
+",tuna ,0
+"Tuna, Bluefin",Thunnus orientalis,"Pacific bluefin tuna
+(Pacific bluefin tuna,
+Bluefin tuna, Oriental
+tuna, Tuna)",No,Restaurant,vancouver,2018,"Tuna, Bluefin",Tuna,"Pacific bluefin tuna
+",tuna ,0
+"Tuna, Bluefin",Thunnus orientalis,"Pacific bluefin tuna
+(Pacific bluefin tuna,
+Bluefin tuna, Oriental
+tuna, Tuna)",No,Restaurant,vancouver,2018,"Tuna, Bluefin",Tuna,"Pacific bluefin tuna
+",tuna ,0
+"Tuna, Bluefin",Thunnus orientalis,"Pacific bluefin tuna
+(Pacific bluefin tuna,
+Bluefin tuna, Oriental
+tuna, Tuna)",No,Restaurant,vancouver,2018,"Tuna, Bluefin",Tuna,"Pacific bluefin tuna
+",tuna ,0
+"Tuna, Bluefin",Thunnus orientalis,"Pacific bluefin tuna
+(Pacific bluefin tuna,
+Bluefin tuna, Oriental
+tuna, Tuna)",No,Restaurant,vancouver,2018,"Tuna, Bluefin",Tuna,"Pacific bluefin tuna
+",tuna ,0
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,vancouver,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,vancouver,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,vancouver,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,vancouver,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1
+"Cod, Pacific","Pangasianodon
+(Pangasius)
+hypophthalmus","Striped catfish
+(Pangasius, Basa, Sutchi
+catfish)",Yes,Restaurant,victoria,2018,"Cod, Pacific",Cod,"Striped catfish
+",Catfish,1
+"Cod, Pacific",Sebastes alutus,"Pacific ocean perch
+(Rockfish, Rosefish,
+Redfish, Ocean perch,
+Pacific Ocean perch)",Yes,Restaurant,victoria,2018,"Cod, Pacific",Cod,"Pacific ocean perch
+",perch,1
+"Crab, Dungeness",Cancer irroratus,"Atlantic rock crab (Rock
+crab, Crab)",Yes,Restaurant,victoria,2018,"Crab, Dungeness",Crab,Atlantic rock crab,Crab,1
+"Salmon, Sockeye",Oncorhynchus mykiss,"Rainbow trout (Rainbow
+trout, Trout, Steelhed
+trout, Steelhead, Deep
+sea trout, Steelhead
+salmon)",Yes,Restaurant,victoria,2018,"Salmon, Sockeye",Salmon,Rainbow trout,Trout,1
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,victoria,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,victoria,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+"Salmon, Sockeye","Oncorhynchus
+nerka","Sockeye salmon
+(Sockeye salmon, Red
+salmon, Red sockeye
+salmon)",No,Restaurant,victoria,2018,"Salmon, Sockeye",Salmon,"Sockeye salmon
+",Salmon,0
+Scallop,Placopecten magellanicus,"Sea scallop (Atlantic
+scallop, Giant scallop,
+Sea Scallop, Scallop)",No,Restaurant,victoria,2018,Scallop,Scallop,Sea scallop,Scallop,0
+"Scallop, Bay",Placopecten magellanicus,"Sea scallop (Atlantic
+scallop, Giant scallop,
+Sea Scallop, Scallop)",Yes,Restaurant,victoria,2018,"Scallop, Bay",Scallop,Sea scallop,Scallop,1
+Snapper,Sebastes alutus,"Pacific ocean perch
+(Rockfish, Rosefish,
+Redfish, Ocean perch,
+Pacific Ocean perch)",Yes,Restaurant,victoria,2018,Snapper,Snapper,"Pacific ocean perch
+",perch,1
+"Snapper, Red",Pagrus major,"Japanese seabream
+(Genuine Porgy,
+Japanese seabream,
+Silver seabream)",Yes,Restaurant,victoria,2018,"Snapper, Red",Snapper,"Japanese seabream
+","seabream
+",1
+"Snapper, Red","Sebastes flavidus or
+Sebastes serranoides","S. flavidus: Yellowtailrockfish (Yellowtail
+rockfish, Rockfish,
+Pacific snapper); S.
+serranoides: Olive
+rockfish (n/a)","Yes: Red snapper is not an
+acceptable market name for S.
+flavidus; S. serranoides not on
+CFIA's Fish List",Restaurant,victoria,2018,"Snapper, Red",Snapper,S. flavidus: Yellowtailrockfish,"rockfish
+",0
+"Tuna, Albacore",Thunnus alalunga,"Albacore tuna (Albacore
+tuna, Tuna, Albacore)",No,Restaurant,victoria,2018,"Tuna, Albacore",Tuna,Albacore tuna,tuna ,0
+"Tuna, Bluefin",Thunnus albacares,"Yellowfin tuna (Tuna,
+Yellowfin tuna,
+Yellowfin)",Yes,Restaurant,victoria,2018,"Tuna, Bluefin",Tuna,Yellowfin tuna,tuna ,1
+Yellowtail,"Seriola
+quinqueradiata","Japanese
+amberjack (Japanese
+Amberjack)",Yes,Restaurant,victoria,2018,Yellowtail,Yellowtail,"Japanese
+amberjack",Amberjack,1

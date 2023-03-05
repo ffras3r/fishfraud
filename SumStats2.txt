@@ -1,0 +1,308 @@
+SOURCE
+
+         Labeled Mislabelled MislabeledProp SampleProp
+#N/A           1           1      0.5000000 0.01010101
+Domestic       1           1      0.5000000 0.01010101
+Import        48          12      0.2000000 0.30303030
+Unknown      107          27      0.2014925 0.67676768
+
+
+CITY
+
+             Labeled Mislabelled MislabeledProp  SampleProp
+#N/A               1           1     0.50000000 0.010101010
+BRAMPTON          12           1     0.07692308 0.065656566
+BRANTFORD          6           0     0.00000000 0.030303030
+BURLINGTON         7           3     0.30000000 0.050505051
+CAMBRIDGE          6           1     0.14285714 0.035353535
+CHATHAM            1           2     0.66666667 0.015151515
+FERGUS             1           0     0.00000000 0.005050505
+GEORGETOWN         1           0     0.00000000 0.005050505
+GUELPH            33           7     0.17500000 0.202020202
+HAMILTON           5           3     0.37500000 0.040404040
+KITCHENER          5           1     0.16666667 0.030303030
+MILTON             2           1     0.33333333 0.015151515
+MISSISSAUGA        7           1     0.12500000 0.040404040
+NORTH BAY          2           1     0.33333333 0.015151515
+NORTH YORK         0           1     1.00000000 0.005050505
+OSHAWA             1           0     0.00000000 0.005050505
+OTTAWA            18           6     0.25000000 0.121212121
+PORT PERRY         3           0     0.00000000 0.015151515
+STONEY CREEK       3           1     0.25000000 0.020202020
+TORONTO           16           2     0.11111111 0.090909091
+TRENTON            1           0     0.00000000 0.005050505
+WATERLOO          20           6     0.23076923 0.131313131
+WHITBY             1           0     0.00000000 0.005050505
+WINDSOR            1           1     0.50000000 0.010101010
+WOODBRIDGE         0           1     1.00000000 0.005050505
+WOODSTOCK          4           1     0.20000000 0.025252525
+
+
+IUCN
+
+   Labeled Mislabelled MislabeledProp  SampleProp
+–        8           2      0.2000000 0.050505051
+EN       1           0      0.0000000 0.005050505
+LC      83          32      0.2782609 0.580808081
+No      38           0      0.0000000 0.191919192
+NR       7           0      0.0000000 0.035353535
+NT       6           0      0.0000000 0.030303030
+So       1           2      0.6666667 0.015151515
+VU      13           5      0.2777778 0.090909091
+
+
+EXPECTED GEN
+
+           Labeled Mislabelled MislabeledProp  SampleProp
+Artificial       1           0      0.0000000 0.005102041
+Butterfish       0           9      1.0000000 0.045918367
+Clam             5           0      0.0000000 0.025510204
+Fish             1           0      0.0000000 0.005102041
+Mackerel         2           0      0.0000000 0.010204082
+Octopus          2           0      0.0000000 0.010204082
+Salmon          11           0      0.0000000 0.056122449
+Shrimp          40           0      0.0000000 0.204081633
+Snapper          0          17      1.0000000 0.086734694
+Tilapia          1           0      0.0000000 0.005102041
+Tuna            71          14      0.1647059 0.433673469
+Unknown         22           0      0.0000000 0.112244898
+
+
+REAL
+
+                           Labeled Mislabelled MislabeledProp  SampleProp
+ Oreochromis niloticus           1           8     0.88888889 0.045454545
+Actinopteri                      1           0     0.00000000 0.005050505
+Amphioctopus kagoshimensis       1           0     0.00000000 0.005050505
+Anguilla rostrata                1           0     0.00000000 0.005050505
+Cichlidae                        0           2     1.00000000 0.010101010
+Clupea harengus                  1           0     0.00000000 0.005050505
+Decapoda                         0           1     1.00000000 0.005050505
+Exocoetidae                      1           0     0.00000000 0.005050505
+Gadidae                          1           0     0.00000000 0.005050505
+Gadus                            1           0     0.00000000 0.005050505
+Gadus chalcogrammus              5           0     0.00000000 0.025252525
+Lepidocybium flavobrunneum      10          20     0.66666667 0.151515152
+No Result                        9           1     0.10000000 0.050505051
+Oncorhynchus mykiss              3           0     0.00000000 0.015151515
+Oreochromis                      1           2     0.66666667 0.015151515
+Oreochromis niloticus            0           1     1.00000000 0.005050505
+Oreochromis niloticus            3           0     0.00000000 0.015151515
+Osmeriformes                     3           0     0.00000000 0.015151515
+Penaeidae                        1           0     0.00000000 0.005050505
+Penaeus                          1           0     0.00000000 0.005050505
+Penaeus vannamei                34           0     0.00000000 0.171717172
+Penaeus vannamei                 2           0     0.00000000 0.010101010
+Salmo salar                     13           2     0.13333333 0.075757576
+Salmonidae                       1           1     0.50000000 0.010101010
+Seriola                          1           2     0.66666667 0.015151515
+Thunnus                         12           0     0.00000000 0.060606061
+Thunnus albacares               50           1     0.01960784 0.257575758
+
+
+SEASON 
+
+       Labeled Mislabelled MislabeledProp SampleProp
+Autumn      52          14      0.2121212  0.3367347
+Spring      62          19      0.2345679  0.4132653
+Summer      23           5      0.1785714  0.1428571
+Winter      19           2      0.0952381  0.1071429
+
+
+MONTH
+
+    Labeled Mislabelled MislabeledProp SampleProp
+Apr      26           8     0.23529412 0.17346939
+Aug       5           2     0.28571429 0.03571429
+Dec       7           1     0.12500000 0.04081633
+Feb       2           1     0.33333333 0.01530612
+Jan      14           3     0.17647059 0.08673469
+Jul       3           0     0.00000000 0.01530612
+Jun      11           0     0.00000000 0.05612245
+Mar       9           5     0.35714286 0.07142857
+May      17           1     0.05555556 0.09183673
+Nov      28          13     0.31707317 0.20918367
+Oct      16           5     0.23809524 0.10714286
+Sep      18           1     0.05263158 0.09693878
+
+
+
+
+********************************OCEANA DATA********************************************
+
+CITY
+
+          Labeled Mislabelled MislabeledProp SampleProp
+halifax        55          34      0.3820225 0.18855932
+montreal       35          55      0.6111111 0.19067797
+ottawa         50          48      0.4897959 0.20762712
+toronto        39          57      0.5937500 0.20338983
+vancouver      61          23      0.2738095 0.17796610
+victoria        5          10      0.6666667 0.03177966
+
+> TotalMislableProp
+[1] 0.4809322
+
+
+
+PURCHASE LOCATION
+
+                          Labeled Mislabelled MislabeledProp  SampleProp
+Fishmarket                      2           1      0.3333333 0.006355932
+Gift store                      0           1      1.0000000 0.002118644
+Grocerystore                   94          32      0.2539683 0.266949153
+Restaurant                    148         193      0.5659824 0.722457627
+Restaurant\n(food\ntruck)       1           0      0.0000000 0.002118644
+
+> TotalMislableProp
+[1] 0.4809322
+
+
+REAL FISH
+
+              Labeled Mislabelled MislabeledProp  SampleProp
+                    0           1     1.00000000 0.002118644
+Amberjack           1          28     0.96551724 0.061440678
+Atlantic cod        1           0     0.00000000 0.002118644
+Bass                4           4     0.50000000 0.016949153
+Beeliner            0           3     1.00000000 0.006355932
+Catfish             0           8     1.00000000 0.016949153
+Char                5           0     0.00000000 0.010593220
+Cobia               0           1     1.00000000 0.002118644
+Cod                50          11     0.18032787 0.129237288
+Crab                2           2     0.50000000 0.008474576
+Crayfish            0           1     1.00000000 0.002118644
+Crevette            0           1     1.00000000 0.002118644
+Cuttlefish          1           0     0.00000000 0.002118644
+Dab                 1           0     0.00000000 0.002118644
+Eel                 2           0     0.00000000 0.004237288
+elassodon           0           2     1.00000000 0.004237288
+Escolar             0          24     1.00000000 0.050847458
+FlÃ©tan             1           0     0.00000000 0.002118644
+flounder            2           2     0.50000000 0.008474576
+grouper             0           3     1.00000000 0.006355932
+Haddock             3           4     0.57142857 0.014830508
+hake                0           3     1.00000000 0.006355932
+Hake                1           0     0.00000000 0.002118644
+Halibut            32          10     0.23809524 0.088983051
+Jaune               0           2     1.00000000 0.004237288
+jobfish             0           1     1.00000000 0.002118644
+Lingcod             1           1     0.50000000 0.004237288
+List                0           3     1.00000000 0.006355932
+lobster             4           1     0.20000000 0.010593220
+Mackerel            2           0     0.00000000 0.004237288
+Monkfish            1           0     0.00000000 0.002118644
+Nordique            1           0     0.00000000 0.002118644
+perch               1           6     0.85714286 0.014830508
+Pickerel            3           0     0.00000000 0.006355932
+Pike                0           1     1.00000000 0.002118644
+Pollock             0           1     1.00000000 0.002118644
+Porgy               0           2     1.00000000 0.004237288
+prawn               5           0     0.00000000 0.010593220
+redfish             0           1     1.00000000 0.002118644
+reedi:              0           1     1.00000000 0.002118644
+rockfish\n          1           5     0.83333333 0.012711864
+Sablefish           6           1     0.14285714 0.014830508
+Salmon             45          11     0.19642857 0.118644068
+Scallop            13           1     0.07142857 0.029661017
+seabass             4           0     0.00000000 0.008474576
+seabream\n          0           4     1.00000000 0.008474576
+Snapper             0           2     1.00000000 0.004237288
+Sole               13           8     0.38095238 0.044491525
+Swordfish           1           0     0.00000000 0.002118644
+Tilapia             0          34     1.00000000 0.072033898
+toothfish\n         0           3     1.00000000 0.006355932
+Trout               8           3     0.27272727 0.023305085
+tuna               29          23     0.44230769 0.110169492
+Turbot              1           2     0.66666667 0.006355932
+Two                 0           1     1.00000000 0.002118644
+whiting\n           0           1     1.00000000 0.002118644
+
+
+
+
+EXPECTED FISH
+            Labeled Mislabelled MislabeledProp  SampleProp
+Amberjack         1           0     0.00000000 0.002118644
+Bass              8           9     0.52941176 0.036016949
+Butterfish        0          12     1.00000000 0.025423729
+char              4           0     0.00000000 0.008474576
+Char              1           0     0.00000000 0.002118644
+Cod              56          20     0.26315789 0.161016949
+Crab              2           3     0.60000000 0.010593220
+Cuttlefish        1           0     0.00000000 0.002118644
+DorÃ©             0           1     1.00000000 0.002118644
+Eel               2           0     0.00000000 0.004237288
+fish              0           1     1.00000000 0.002118644
+Flounder          1           0     0.00000000 0.002118644
+Grouper           0           5     1.00000000 0.010593220
+Haddock           3           0     0.00000000 0.006355932
+Hake              1           3     0.75000000 0.008474576
+Halibut          33          12     0.26666667 0.095338983
+Lavraki           0           1     1.00000000 0.002118644
+Lithrinin         0           1     1.00000000 0.002118644
+Lobster           4           1     0.20000000 0.010593220
+Loup de mer       0           2     1.00000000 0.004237288
+Mackerel          2           0     0.00000000 0.004237288
+Matane            0           1     1.00000000 0.002118644
+Monkfish          1           0     0.00000000 0.002118644
+nordique          1           0     0.00000000 0.002118644
+Perch             1           0     0.00000000 0.002118644
+Pickerel          3           2     0.40000000 0.010593220
+Prawn             5           0     0.00000000 0.010593220
+Rockfish          1           0     0.00000000 0.002118644
+Sablefish         2           1     0.33333333 0.006355932
+Salmon           47          13     0.21666667 0.127118644
+Scallop          13           1     0.07142857 0.029661017
+Seabream          0           1     1.00000000 0.002118644
+Snapper           0          55     1.00000000 0.116525424
+Sole             15          16     0.51612903 0.065677966
+Steelhead         1           0     0.00000000 0.002118644
+Swordfish         1           0     0.00000000 0.002118644
+Trout             5           1     0.16666667 0.012711864
+Tuna             29          38     0.56716418 0.141949153
+Turbot            1           0     0.00000000 0.002118644
+White fish        0           1     1.00000000 0.002118644
+Yellowtail        0          26     1.00000000 0.055084746
+
+
+
+FOR EACH CITY:
+
+
+MONTREAL
+
+OTTAWA
+
+HALIFAX
+
+TORONTO
+
+VANCOUVER
+
+VICTORIA
+
+
+NEXT STEPS
+methods:
+identify specific things to do 
+cross tabs
+
+define what independent/dependent variables are/could be
+
+univariate models for each dependent 
+excel spreadsheet 
+
+two levels of significance:
+1) is the model bettern than NULL model
+2) parameter estimates
+
+dont generalize atlantic / pacific salmon
+
+beware snapper
+put data / 
+
+
+
+
+
