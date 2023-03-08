@@ -5,19 +5,17 @@ getwd()
 
 
 #Remove data with low counts, 
-Data2 <- Data1[Data1$City %in% names(which(table(Data1$City)>5)),]
+Data2 <- Data[Data$City %in% names(which(table(Data$City)>5)),]
 Data3 <- Data2[Data2$IUCN %in% names(which(table(Data2$IUCN)>5)),]
 Data4 <- Data3[Data3$expectedGen %in% names(which(table(Data3$expectedGen)>5)),]
-Data <- Data4[Data4$realGen %in% names(which(table(Data4$realGen)>5)),]
-
-attach(Data)
-tail(Data)
+redData <- Data4[Data4$realGen %in% names(which(table(Data4$realGen)>5)),]
 
 #MISLABELLING PROPORTIONS 
 #Change this var \/ depending on what you want to check
 Table <- table(City, isMislabelled)
 prop_successes <- Table[, 2] / (Table[, 1] + Table[, 2])
 prop_samples <- (Table[, 2] + Table[, 1]) / sum(Table)
+mosaic <- data.frame(Labeled = Table[, 1], Mislabelled = Table[, 2])
 results <- data.frame(Labeled = Table[, 1], Mislabelled = Table[, 2], MislabelledProp = prop_successes, SampleProp = prop_samples)
 results
 
@@ -26,21 +24,50 @@ set.seed(123)
 traini <- sample(nrow(Data), nrow(Data)*.7)
 train <- Data[traini, ]
 test <- Data[-traini, ]
+#test <- subset(test, IUCN !="EN")
 
 #UNIVARIATE GLMS
-cityR <- glm(isMislabelled ~ City, family = 'binomial', data=train)
-source <- glm(isMislabelled ~ Sample.source, family = 'binomial', data=train)
-local <- glm(isMislabelled ~ Locality, family = 'binomial', data=train)
-expected <- glm(isMislabelled ~ expectedGen, family = 'binomial', data=train)
-iucn <- glm(isMislabelled ~ IUCN, family = 'binomial', data=train)
-real <- glm(isMislabelled ~ realGen, family = 'binomial', data=train)
-price <- glm(isMislabelled ~ thePrice, family = 'binomial', data=train)
-month <- glm(isMislabelled ~ theMonth, family = 'binomial', data=train)
-season <- glm(isMislabelled ~ theSeason, family = 'binomial', data=train)
-cut <- glm(isMislabelled ~ isCut, family = 'binomial', data=train)
-mixed <- glm(isMislabelled ~ isMixed, family = 'binomial', data=train)
-raw <- glm(isMislabelled ~ isRaw, family = 'binomial', data=train)
+#for accuracy / sensitivity / specificity
+# cityR <- glm(isMislabelled ~ City, family = 'binomial', data=train)
+# source <- glm(isMislabelled ~ Sample.source, family = 'binomial', data=train)
+# local <- glm(isMislabelled ~ Locality, family = 'binomial', data=train)
+# expected <- glm(isMislabelled ~ expectedGen, family = 'binomial', data=train)
+# iucn <- glm(isMislabelled ~ IUCN, family = 'binomial', data=train)
+# real <- glm(isMislabelled ~ realGen, family = 'binomial', data=train)
+# price <- glm(isMislabelled ~ thePrice, family = 'binomial', data=train)
+# month <- glm(isMislabelled ~ theMonth, family = 'binomial', data=train)
+# season <- glm(isMislabelled ~ theSeason, family = 'binomial', data=train)
+# cut <- glm(isMislabelled ~ isCut, family = 'binomial', data=train)
+# mixed <- glm(isMislabelled ~ isMixed, family = 'binomial', data=train)
+# raw <- glm(isMislabelled ~ isRaw, family = 'binomial', data=train)
 
+#for aic bic p-values
+cityR <- glm(isMislabelled ~ City, family = 'binomial', data=Data)
+source <- glm(isMislabelled ~ Sample.source, family = 'binomial', data=Data)
+local <- glm(isMislabelled ~ Locality, family = 'binomial', data=Data)
+expected <- glm(isMislabelled ~ expectedGen, family = 'binomial', data=Data)
+iucn <- glm(isMislabelled ~ IUCN, family = 'binomial', data=Data)
+real <- glm(isMislabelled ~ realGen, family = 'binomial', data=Data)
+price <- glm(isMislabelled ~ thePrice, family = 'binomial', data=Data)
+month <- glm(isMislabelled ~ theMonth, family = 'binomial', data=Data)
+season <- glm(isMislabelled ~ theSeason, family = 'binomial', data=Data)
+cut <- glm(isMislabelled ~ isCut, family = 'binomial', data=Data)
+mixed <- glm(isMislabelled ~ isMixed, family = 'binomial', data=Data)
+raw <- glm(isMislabelled ~ isRaw, family = 'binomial', data=Data)
+
+#Reduced Data
+cityRR <- glm(isMislabelled ~ City, family = 'binomial', data=redData)
+sourceR <- glm(isMislabelled ~ Sample.source, family = 'binomial', data=redData)
+localR <- glm(isMislabelled ~ Locality, family = 'binomial', data=redData)
+expectedR <- glm(isMislabelled ~ expectedGen, family = 'binomial', data=redData)
+iucnR <- glm(isMislabelled ~ IUCN, family = 'binomial', data=redData)
+realR <- glm(isMislabelled ~ realGen, family = 'binomial', data=redData)
+priceR <- glm(isMislabelled ~ thePrice, family = 'binomial', data=redData)
+monthR <- glm(isMislabelled ~ theMonth, family = 'binomial', data=redData)
+seasonR <- glm(isMislabelled ~ theSeason, family = 'binomial', data=redData)
+cutR <- glm(isMislabelled ~ isCut, family = 'binomial', data=redData)
+mixedR <- glm(isMislabelled ~ isMixed, family = 'binomial', data=redData)
+rawR <- glm(isMislabelled ~ isRaw, family = 'binomial', data=redData)
 
 #AIC AND BIC OF EACH UNIVARIATE GLM
 AIC(cityR)
@@ -81,7 +108,7 @@ BIC(raw)
 
 #PREDICTION RESULTS
 #change this variable   \/ to one of the glms above to replicate
-predictions <- predict(raw, newdata = test, type = 'response')
+predictions <- predict(cityR, newdata = test, type = 'response')
 predictions <- ifelse(predictions > 0.5, 1, 0)
 true_pos <- sum(predictions ==1 & isMislabelled == 1)
 false_pos <- sum(predictions == 1 & isMislabelled == 0)
@@ -96,16 +123,17 @@ accuracy
 sensitivity
 specificity
 
+
 #SUMMARIES
-summary(cityR)
-summary(source)
-summary(local)
-summary(expected)
-summary(real)
-summary(price)
-summary(iucn)
-summary(month)
-summary(season)
-summary(cut)
-summary(mixed)
-summary(raw)
+# summary(cityR)
+# summary(source)
+# summary(local)
+# summary(expected)
+# summary(real)
+# summary(price)
+# summary(iucn)
+# summary(month)
+# summary(season)
+# summary(cut)
+# summary(mixed)
+# summary(raw)
