@@ -1,0 +1,197 @@
+﻿Sample ID,Sample1,Sample2,Sample3,Sample4,Sample source,Locality,City,expected,expectedGen,real,realGen,date,thePrice,theYear,theMonth,theSeason,IUCN,Mislabeled,isMislabelled,isMixed,isRaw,isCut,isRest
+18-087935-0002,Single, Raw, cuts, Sashimi,R,I,OTTAWA,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2018-11-05,42.71,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+19-082697-0003-c,Mixed, Raw, rolls, Maki,R,U,GUELPH,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2019-10-21,33.56,2019,Oct,Autumn,LC,Yes,1,1,1,0,1
+19-016127-0001-c,Mixed, Raw, cuts, Sashimi,R,U,WOODSTOCK,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-03-04,33.84,2019,Mar,Spring,LC,No,0,1,1,1,1
+19-028101-0002-a,Mixed, Raw, cuts, Sashimi,G,U,MISSISSAUGA,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-14,33.91,2019,Apr,Spring,LC,No,0,1,1,1,0
+19-028111-0002-a,Mixed, Raw, rolls, Maki,G,U,MISSISSAUGA,Tuna ,Tuna,Salmo salar,Salmo,2019-04-14,27.08,2019,Apr,Spring,VU,No,0,1,1,0,0
+19-028641-0002-b,Mixed, Raw, rolls, Maki,R,I,WATERLOO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-16,27.01,2019,Apr,Spring,LC,No,0,1,1,0,1
+19-028646-0001-b,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-16,30.3,2019,Apr,Spring,LC,No,0,1,1,0,1
+19-028696-0001-a,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Tuna ,Tuna,Oreochromis niloticus ,Oreochromis,2019-04-16,30.41,2019,Apr,Spring,LC,No,0,1,1,0,1
+19-028696-0002-a,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Tuna ,Tuna,Oreochromis niloticus ,Oreochromis,2019-04-16,30.41,2019,Apr,Spring,LC,No,0,1,1,0,1
+19-031934-0001-b,Mixed, Raw, cuts, Sashimi,R,U,MISSISSAUGA,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-28,16.92,2019,Apr,Spring,LC,No,0,1,1,1,1
+19-032499-0001,Single, Raw, rolls, Maki,G,I,GUELPH,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-30,24.85,2019,Apr,Spring,LC,No,0,0,1,0,0
+19-003634-0001-d,Mixed, Raw, cuts, Sashimi,R,U,TORONTO,Clam,Clam,No result,No,2019-01-13,32.76,2019,Jan,Winter,NR,No,0,1,1,1,1
+19-032515-0001,Single, Raw, rolls, Maki,G,I,GUELPH,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-30,22.25,2019,Apr,Spring,LC,No,0,0,1,0,0
+19-032515-0002-a,Mixed, Raw, rolls, Maki,G,I,GUELPH,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-30,22.25,2019,Apr,Spring,LC,No,0,1,1,0,0
+19-035062-0001-b,Single, Raw, rolls, Maki,R,U,GUELPH,Salmon ,Salmon,Salmo salar,Salmo,2019-05-08,24.86,2019,May,Spring,VU,No,0,0,1,0,1
+19-036284-0001-b,Mixed, Raw, rolls, Maki,R,U,BRAMPTON,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-05-13,15.8,2019,May,Spring,LC,No,0,1,1,0,1
+19-040157-0001-b,Mixed, Raw, rolls, Maki,R,I,BRANTFORD,Tuna ,Tuna,Thunnus,Thunnus,2019-05-27,27.26,2019,May,Spring,LC,No,0,1,1,0,1
+19-040157-0002,Single, Raw, rolls, Maki,R,I,BRANTFORD,Tuna ,Tuna,Thunnus,Thunnus,2019-05-27,27.26,2019,May,Spring,LC,No,0,0,1,0,1
+19-040159-0002-a,Mixed, Raw, cuts, Nigiri,G,U,BRANTFORD,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-05-27,24.85,2019,May,Spring,LC,No,0,1,1,1,0
+19-044946-0002,Single, Raw, rolls, Maki,R,I,OTTAWA,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-06-11,25.95,2019,Jun,Summer,LC,No,0,0,1,0,1
+19-044958-0001-d,Mixed, Raw, rolls, Maki,G,U,OTTAWA,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-06-11,29.9,2019,Jun,Summer,LC,No,0,1,1,0,0
+19-046833-0002,Single, Raw, rolls, Maki,R,I,BRAMPTON,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-06-18,25.97,2019,Jun,Summer,LC,No,0,0,1,0,1
+19-046835-0002-b,Single, Raw, rolls, Maki,R,U,PORT PERRY,Salmon ,Salmon,Salmo salar,Salmo,2019-06-18,29.35,2019,Jun,Summer,VU,No,0,0,1,0,1
+19-046852-0001-a,Mixed, Raw, rolls, Maki,R,U,PORT PERRY,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-06-18,30.9,2019,Jun,Summer,LC,No,0,1,1,0,1
+19-066372-0001,Single, Raw, rolls, Maki,R,I,GEORGETOWN,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-08-26,22.55,2019,Aug,Summer,LC,No,0,0,1,0,1
+19-073477-0001-a,Single, Raw, rolls, Maki,R,I,GUELPH,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-09-19,22.37,2019,Sep,Autumn,LC,No,0,0,1,0,1
+19-073477-0002-a,Mixed, Raw, rolls, Maki,R,I,GUELPH,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-09-19,22.37,2019,Sep,Autumn,LC,No,0,1,1,0,1
+19-073508-0002,Single, Raw, rolls, Maki,R,I,OTTAWA,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-09-18,27.08,2019,Sep,Autumn,LC,No,0,0,1,0,1
+19-079212-0002,Single, Raw, rolls, Maki,R,I,GUELPH,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-10-08,28.25,2019,Oct,Autumn,LC,No,0,0,1,0,1
+19-087087-0001-b,Mixed, Raw, rolls, Nigiri,G,I,GUELPH,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-11-05,22.58,2019,Nov,Autumn,LC,No,0,1,1,0,0
+19-088048-0001,Single, Raw, rolls, Maki,R,U,TORONTO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-11-06,10.83,2019,Nov,Autumn,LC,No,0,0,1,0,1
+19-088052-0002-b,Single, Raw, rolls, Maki,R,I,TORONTO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-11-06,20.23,2019,Nov,Autumn,LC,No,0,0,1,0,1
+19-088055-0001-a,Single, Raw, rolls, Maki,R,U,TORONTO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-11-06,14.63,2019,Nov,Autumn,LC,No,0,0,1,0,1
+19-002233-0001-e,Mixed, Raw, cuts, Sashimi,R,I,CAMBRIDGE,Tilapia,Tilapia,Oreochromis,Oreochromis,2019-01-08,48.67,2019,Jan,Winter,VU,No,0,1,1,1,1
+19-088055-0002-b,Single, Raw, rolls, Maki,R,U,TORONTO,Salmon ,Salmon,Thunnus albacares,Thunnus,2019-11-06,14.63,2019,Nov,Autumn,LC,No,0,0,1,0,1
+19-088070-0002-a,Mixed, Raw/cooked, rolls/cuts, Nigiri,G,U,TORONTO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-11-06,23.75,2019,Nov,Autumn,LC,No,0,1,0,0,0
+19-088073-0002,Single, Raw, rolls, Maki,R,I,TORONTO,Tuna ,Tuna,Seriola,Seriola,2019-11-06,24.9,2019,Nov,Autumn,LC,No,0,0,1,0,1
+19-094806-0002,Single, Raw, rolls, Maki,R,U,OTTAWA,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-11-30,15.05,2019,Nov,Autumn,LC,No,0,0,1,0,1
+19-094809-0002-b,Mixed, Raw, cuts, Mixed ,G,U,OTTAWA,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-11-30,35.56,2019,Nov,Autumn,LC,No,0,1,1,1,0
+19-095886-0001-b,Mixed, Raw, cuts, Nigiri,G,U,KITCHENER,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-12-04,33.3,2019,Dec,Winter,LC,No,0,1,1,1,0
+19-095889-0001,Single, Raw, rolls, Maki,R,U,WATERLOO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-12-04,28.25,2019,Dec,Winter,LC,No,0,0,1,0,1
+19-095891-0002,Single, Raw, rolls/cuts,Nigiri,R,I,WATERLOO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-12-04,23.73,2019,Dec,Winter,LC,No,0,0,1,0,1
+19-095894-0002,Single, Raw, rolls, Maki,R,I,WATERLOO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-12-04,31.41,2019,Dec,Winter,LC,No,0,0,1,0,1
+19-095899-0001,Single, Raw, rolls, Maki,R,I,WATERLOO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-12-04,20.91,2019,Dec,Winter,LC,No,0,0,1,0,1
+19-095901-0001,Single, Raw, rolls, Maki,R,I,WATERLOO,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-12-02,23.71,2019,Dec,Winter,LC,No,0,0,1,0,1
+19-016602-0001-b,Mixed, Raw, cuts, Sashimi,R,U,HAMILTON,Tuna ,Tuna,Thunnus,Thunnus,2019-03-05,27.95,2019,Mar,Spring,LC,No,0,1,1,1,1
+19-028656-0002-d,Mixed, Raw, rolls, Maki,G,U,WATERLOO,Tuna ,Tuna,Salmo salar,Salmo,2019-04-16,19.19,2019,Apr,Spring,VU,No,0,1,1,0,0
+19-028672-0001-c,Mixed, Raw, cuts, Sashimi,R,U,WATERLOO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-16,27.1,2019,Apr,Spring,LC,No,0,1,1,1,1
+19-031934-0002-b,Mixed, Raw, rolls, Nigiri,R,U,MISSISSAUGA,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-04-28,16.92,2019,Apr,Spring,LC,No,0,1,1,0,1
+19-036282-0001-e,Mixed, Raw, rolls, Maki,R,U,BRAMPTON,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-05-13,13.55,2019,May,Spring,LC,No,0,1,1,0,1
+19-093140-0001-c,Mixed, Raw, rolls, Maki,G,U,GUELPH,Fish Egg,Fish,Osmeriformes,Osmeriformes,2019-11-25,18.58,2019,Nov,Autumn,LC,No,0,1,1,0,0
+19-046835-0001-b,Mixed, Raw, rolls, Maki,R,U,PORT PERRY,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-06-18,29.35,2019,Jun,Summer,LC,No,0,1,1,0,1
+18-085935-0001,Single, Raw, cuts, Sashimi,R,U,WATERLOO,Tuna red ,Tuna,Oreochromis niloticus ,Oreochromis,2018-10-29,23.9,2018,Oct,Autumn,LC,No,0,0,1,1,1
+18-085943-0002,Single, Raw, cuts, Sashimi,R,U,KITCHENER,Tuna red ,Tuna,Thunnus albacares,Thunnus,2018-10-29,30.51,2018,Oct,Autumn,LC,No,0,0,1,1,1
+18-087953-0001,Single, Raw, cuts, Sashimi,R,U,OTTAWA,Tuna red ,Tuna,Thunnus albacares,Thunnus,2018-11-05,40.68,2018,Nov,Autumn,LC,No,0,0,1,1,1
+18-088273-0002,Single, Raw, cuts, Sashimi,R,U,OTTAWA,Tuna red ,Tuna,Thunnus,Thunnus,2018-11-06,73.45,2018,Nov,Autumn,LC,No,0,0,1,1,1
+18-093448-0002,Single, Raw, rolls, Maki,R,U,BURLINGTON,Tuna red ,Tuna,Thunnus albacares,Thunnus,2018-11-26,40.68,2018,Nov,Autumn,LC,No,0,0,1,0,1
+18-093450-0002,Single, Raw, cuts, Sashimi,R,U,BURLINGTON,Tuna red ,Tuna,Thunnus albacares,Thunnus,2018-11-26,31.64,2018,Nov,Autumn,LC,No,0,0,1,1,1
+19-002233-0001-d,Mixed, Raw, cuts, Sashimi,R,I,CAMBRIDGE,Tuna red ,Tuna,Thunnus,Thunnus,2019-01-08,48.67,2019,Jan,Winter,LC,No,0,1,1,1,1
+19-003634-0001-c,Mixed, Raw, cuts, Sashimi,R,U,TORONTO,Tuna red ,Tuna,Thunnus albacares,Thunnus,2019-01-13,32.76,2019,Jan,Winter,LC,No,0,1,1,1,1
+19-089065-0001-c,Single, Raw, rolls, Maki,G,U,GUELPH,Salmon  ,Salmon,Osmeriformes,Osmeriformes,2019-11-11,23.71,2019,Nov,Autumn,LC,No,0,0,1,0,0
+18-085943-0001,Single, Raw, cuts, Sashimi,R,U,KITCHENER,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2018-10-29,30.51,2018,Oct,Autumn,LC,Yes,1,0,1,1,1
+18-087945-0002,Single, Raw, rolls, Maki,R,U,OTTAWA,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2018-11-05,43,2018,Nov,Autumn,LC,Yes,1,0,1,0,1
+18-087953-0002,Single, Raw, cuts, Sashimi,R,U,OTTAWA,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2018-11-05,40.68,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+18-088273-0003,Single, Raw, cuts, Sashimi,R,U,OTTAWA,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2018-11-06,73.45,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+19-028672-0001-a,Mixed, Raw, cuts, Sashimi,R,U,WATERLOO,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-04-16,27.1,2019,Apr,Spring, NA,No,0,1,1,1,1
+18-090079-0001-b,Mixed, Raw, rolls, Maki,R,U,GUELPH,Tuna white ,Tuna,Salmo salar,Salmo,2018-11-13,45.2,2018,Nov,Autumn,VU,Yes,1,1,1,0,1
+18-090079-0002,Single, Raw, cuts, Sashimi,R,U,GUELPH,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2018-11-13,45.2,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+18-090084-0002,Single, Raw, rolls, Maki,R,U,GUELPH,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2018-11-13,27.06,2018,Nov,Autumn,LC,Yes,1,0,1,0,1
+18-093441-0001,Single, Raw, cuts, Nigiri,R,U,BURLINGTON,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2018-11-26,25.43,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+19-003634-0001-b,Mixed, Raw, cuts, Sashimi,R,U,TORONTO,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-01-13,32.76,2019,Jan,Winter,LC,Yes,1,1,1,1,1
+19-028696-0002-d,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-04-16,30.41,2019,Apr,Spring, NA,No,0,1,1,0,1
+19-032163-0001,Single, Raw, rolls, Maki,R,I,CHATHAM,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-04-29,25.8,2019,Apr,Spring, NA,Yes,1,0,1,0,1
+19-032163-0002-a,Mixed, Raw, rolls, Maki,R,U,CHATHAM,Tuna white ,Tuna, Oreochromis niloticus,Oreochromis,2019-04-29,25.8,2019,Apr,Spring,LC,Yes,1,1,1,0,1
+19-036282-0001-c,Mixed, Raw, rolls, Maki,R,U,BRAMPTON,Tuna white ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-05-13,13.55,2019,May,Spring,LC,Yes,1,1,1,0,1
+19-066484-0001-b,Mixed, Raw, rolls, Maki,R,D,WINDSOR,Tuna white ,Tuna,Oreochromis,Oreochromis,2019-08-26,27.01,2019,Aug,Summer,LC,Yes,1,1,1,0,1
+19-073508-0001-a,Mixed, Raw, rolls, Maki,R,I,OTTAWA,Tuna white ,Tuna, Oreochromis niloticus,Oreochromis,2019-09-18,27.08,2019,Sep,Autumn,LC,Yes,1,1,1,0,1
+18-093806-0002,Mixed, Raw, rolls, Maki,G,U,GUELPH,Unknown,Unknown,Oncorhynchus mykiss,Oncorhynchus,2018-11-27,25.97,2018,Nov,Autumn,LC,No,0,1,1,0,0
+19-002226-0001,Mixed, Raw, rolls, Maki,G,U,CAMBRIDGE,Unknown,Unknown,Salmo salar,Salmo,2019-01-08,25.15,2019,Jan,Winter,LC,No,0,1,1,0,0
+19-011011-0001,Mixed, Raw, rolls, Maki,R,U,MILTON,Unknown,Unknown,Salmo salar,Salmo,2019-02-11,18.5,2019,Feb,Winter,VU,No,0,1,1,0,1
+19-011023-0001,Mixed, Raw, rolls, Maki,R,U,MILTON,Unknown,Unknown,Salmo salar,Salmo,2019-02-11,23.94,2019,Feb,Winter,VU,No,0,1,1,0,1
+19-002233-0001-f,Mixed, Raw, cuts, Sashimi,R,I,CAMBRIDGE,Mackerel ,Mackerel,Clupea harengus,Clupea,2019-01-08,48.67,2019,Jan,Winter,VU,No,0,1,1,1,1
+19-016124-0001,Mixed, Raw, cuts, Sashimi,R,I,WOODSTOCK,Unknown,Unknown,Salmo salar,Salmo,2019-03-04,27.09,2019,Mar,Spring,LC,No,0,1,1,1,1
+19-032163-0002-b,Mixed, Raw, rolls, Maki,R,U,CHATHAM,Unknown,Unknown,Gadus chalcogrammus,Gadus,2019-04-29,25.8,2019,Apr,Spring,VU,No,0,1,1,0,1
+19-032499-0002,Mixed, Raw, rolls, Maki,G,U,GUELPH,Unknown,Unknown,Salmo salar,Salmo,2019-04-30,24.85,2019,Apr,Spring,NT,No,0,1,1,0,0
+19-035062-0002,Single, Raw, rolls, Maki,R,I,GUELPH,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-05-08,24.86,2019,May,Spring,VU,No,0,0,1,0,1
+19-036267-0001-a,Mixed, Cooked, rolls, Maki ,R,U,BRAMPTON,Unknown,Unknown,Penaeus vannamei,Penaeus,2019-05-13,21.32,2019,May,Spring,LC,No,0,1,0,0,1
+19-036282-0001-a,Mixed, Raw, rolls, Maki,R,U,BRAMPTON,Unknown,Unknown,Salmo salar,Salmo,2019-05-13,13.55,2019,May,Spring, NA,No,0,1,1,0,1
+19-050693-0001,Single, Cooked, rolls, Maki ,G,U,STONEY CREEK,Artificial crab,Artificial,Gadus chalcogrammus,Gadus,2019-07-02,19.19,2019,Jul,Summer,VU,No,0,0,0,0,0
+19-073477-0001-b,Single, Raw, rolls, Maki,R,I,GUELPH,Tuna ,Tuna,Salmo salar,Salmo,2019-09-19,22.37,2019,Sep,Autumn,NT,No,0,0,1,0,1
+19-073507-0001-a,Mixed, Raw, rolls, Maki,G,I,OTTAWA,Unknown,Unknown,Salmo salar,Salmo,2019-09-18,20.45,2019,Sep,Autumn,VU,No,0,1,1,0,0
+19-036284-0001-d,Mixed, Raw, rolls, Maki,R,U,BRAMPTON,Mackerel ,Mackerel,Lepidocybium flavobrunneum,Lepidocybium,2019-05-13,15.8,2019,May,Spring,VU,No,0,1,1,0,1
+19-036283-0002-b,Mixed, Raw, rolls, Maki,G,U,BRAMPTON,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-05-13,15.83,2019,May,Spring,LC,No,0,1,1,0,0
+19-073508-0001-d,Mixed, Raw, rolls, Maki,R,I,OTTAWA,Unknown,Unknown,Anguilla rostrata,Anguilla,2019-09-18,27.08,2019,Sep,Autumn, NA,No,0,1,1,0,1
+19-073508-0001-e,Mixed, Raw, rolls, Maki,R,I,OTTAWA,Unknown,Unknown,Thunnus albacares,Thunnus,2019-09-18,27.08,2019,Sep,Autumn,EN,No,0,1,1,0,1
+19-074119-0001,Mixed, Cooked, rolls, Maki ,G,U,GUELPH,Unknown,Unknown,Penaeus vannamei,Penaeus,2019-09-23,16.28,2019,Sep,Autumn,LC,No,0,1,0,0,0
+19-074119-0002-a,Mixed, Raw/cooked, rolls, Maki,G,U,GUELPH,Unknown,Unknown,Osmeriformes,Osmeriformes,2019-09-23,16.28,2019,Sep,Autumn, NA,No,0,1,0,0,0
+19-082697-0001-a,Mixed, Raw, rolls, Maki,R,I,GUELPH,Unknown,Unknown, Oreochromis niloticus,Oreochromis,2019-10-21,33.56,2019,Oct,Autumn,LC,No,0,1,1,0,1
+19-089065-0002-a,Mixed, Raw/cooked, rolls, Mixed,G,U,GUELPH,Unknown,Unknown,Thunnus albacares,Thunnus,2019-11-11,23.71,2019,Nov,Autumn,LC,No,0,1,0,0,0
+19-084666-0001-a,Mixed, Raw/cooked, rolls, Mixed,G,I,BURLINGTON,Unknown Tuna,Tuna,Thunnus albacares,Thunnus,2019-10-27,20.32,2019,Oct,Autumn,LC,No,0,1,0,0,0
+19-084666-0002-a ,Mixed, Raw/cooked, rolls/cuts, Maki,G,I,BURLINGTON,Unknown Tuna,Tuna,Thunnus albacares,Thunnus,2019-10-27,20.32,2019,Oct,Autumn,LC,No,0,1,0,0,0
+19-040173-0002,Single, Raw, rolls, Maki,G,U,BRAMPTON,Salmon ,Salmon,Penaeus vannamei,Penaeus,2019-05-27,17.5,2019,May,Spring,LC,No,0,0,1,0,0
+19-084671-0002-a,Mixed, Raw/cooked, rolls/cuts, Mixed,G,I,GUELPH,Unknown Tuna,Tuna,Thunnus albacares,Thunnus,2019-10-28,21.45,2019,Oct,Autumn, NA,No,0,1,0,0,0
+19-044958-0001-a,Mixed, Raw, rolls, Maki,G,U,OTTAWA,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-06-11,29.9,2019,Jun,Summer,LC,No,0,1,1,0,0
+19-087087-0002-a,Mixed, Raw/cooked, rolls, Maki,G,I,GUELPH,Unknown Tuna,Tuna,Oncorhynchus mykiss,Oncorhynchus,2019-11-05,22.58,2019,Nov,Autumn, NA,No,0,1,0,0,0
+18-091659-0002,Single, Raw, cuts, Sashimi,R,I,WOODBRIDGE ,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2018-11-19,54.24,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+19-016602-0002-c,Mixed, Raw, rolls, Maki,R,U,HAMILTON,Octopus ,Octopus,No result,No,2019-03-05,27.95,2019,Mar,Spring,LC,No,0,1,1,0,1
+19-028656-0002-b,Mixed, Raw, rolls, Maki,G,U,WATERLOO,Octopus ,Octopus,Amphioctopus kagoshimensis,Amphioctopus,2019-04-16,19.19,2019,Apr,Spring,NR,No,0,1,1,0,0
+19-016127-0001-a,Mixed, Raw, cuts, Sashimi,R,U,WOODSTOCK,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-03-04,33.84,2019,Mar,Spring,LC,No,0,1,1,1,1
+19-028087-0001-b,Mixed, Raw/cooked, cuts, Nigiri,G,U,MISSISSAUGA,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-04-14,23.71,2019,Apr,Spring, NA,No,0,1,0,1,0
+19-028656-0002-c,Mixed, Raw, rolls, Maki,G,U,WATERLOO,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-04-16,19.19,2019,Apr,Spring, NA,No,0,1,1,0,0
+19-048976-0002-b,Mixed, Raw, rolls, Maki,G,U,TRENTON,Shrimp ,Shrimp,Penaeidae,Penaeidae,2019-06-25,28.23,2019,Jun,Summer, NA,No,0,1,1,0,0
+19-028689-0001-c,Single, Raw, rolls, Maki,G,U,WATERLOO,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-04-16,20.32,2019,Apr,Spring, NA,No,0,0,1,0,0
+19-028696-0001-b,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Shrimp ,Shrimp,Thunnus albacares,Thunnus,2019-04-16,30.41,2019,Apr,Spring, NA,No,0,1,1,0,1
+18-093450-0001,Single, Raw, cuts, Sashimi,R,U,BURLINGTON,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2018-11-26,31.64,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+19-061561-0001-a,Missing form,Missing form,Missing form,Missing form,Missing form,Missing form,NORTH BAY,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-08-09,16,2019,Aug,Summer,LC,No,0,0,0,0,0
+19-061561-0001-b,Mixed, Raw, cuts, Sashimi,R,U,NORTH BAY,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-08-09,16,2019,Aug,Summer,LC,No,0,1,1,1,1
+19-061561-0001-d,Mixed, Raw, cuts, Sashimi,R,U,NORTH BAY,Snapper ,Snapper,Salmonidae,Salmonidae,2019-08-09,16,2019,Aug,Summer, NA,Yes,1,1,1,1,1
+19-028701-0001-c,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Shrimp ,Shrimp,Gadus chalcogrammus,Gadus,2019-04-16,16.27,2019,Apr,Spring,VU,No,0,1,1,0,1
+19-032515-0002-c,Mixed, Raw, rolls, Maki,G,I,GUELPH,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-04-30,22.25,2019,Apr,Spring,NT,No,0,1,1,0,0
+19-067285-0002-a,Mixed, Raw/cooked, rolls, Maki,G,U,FERGUS,Shrimp ,Shrimp,Penaeus vannamei ,Penaeus,2019-08-28,20.38,2019,Aug,Summer, NA,No,0,1,0,0,0
+19-070491-0002,Mixed, Raw, rolls, Maki,G,U,GUELPH,Unknown,Unknown,Gadus,Gadus,2019-09-10,23.71,2019,Sep,Autumn, NA,No,0,1,1,0,0
+19-036269-0002-b,Mixed, Raw, rolls, Maki,G,U,BRAMPTON,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-05-13,22.56,2019,May,Spring,NT,No,0,1,1,0,0
+19-036282-0001-b,Mixed, Raw, rolls, Maki,R,U,BRAMPTON,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-05-13,13.55,2019,May,Spring, NA,No,0,1,1,0,1
+19-040159-0002-d,Mixed, Raw, cuts, Nigiri,G,U,BRANTFORD,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-05-27,24.85,2019,May,Spring, NA,No,0,1,1,1,0
+19-073477-0002-b,Mixed, Raw, rolls, Maki,R,I,GUELPH,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-09-19,22.37,2019,Sep,Autumn, NA,No,0,1,1,0,1
+19-073497-0002,Mixed, Cooked, rolls, Maki ,G,U,OSHAWA,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-09-19,11.66,2019,Sep,Autumn, NA,No,0,1,0,0,0
+19-040161-0001-a,Mixed, Cooked, rolls, Maki ,G,I,BRANTFORD,Shrimp ,Shrimp,Oncorhynchus mykiss,Oncorhynchus,2019-05-27,18.65,2019,May,Spring, NA,No,0,1,0,0,0
+19-073507-0001-c,Mixed, Raw, rolls, Maki,G,I,OTTAWA,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-09-18,20.45,2019,Sep,Autumn,LC,No,0,1,1,0,0
+19-040161-0002-b,Single, Cooked, rolls, Maki ,G,I,BRANTFORD,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-05-27,18.65,2019,May,Spring, NA,No,0,0,0,0,0
+19-073508-0001-c,Mixed, Raw, rolls, Maki,R,I,OTTAWA,Shrimp ,Shrimp,Penaeus vannamei ,Penaeus,2019-09-18,27.08,2019,Sep,Autumn, NA,No,0,1,1,0,1
+19-002233-0001-c,Mixed, Raw, cuts, Sashimi,R,I,CAMBRIDGE,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2019-01-08,48.67,2019,Jan,Winter, NA,Yes,1,1,1,1,1
+19-044965-0002-c,Single, Raw, rolls, Maki,G,U,OTTAWA,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-06-11,24.84,2019,Jun,Summer,LC,No,0,0,1,0,0
+19-050693-0002,Single, Cooked, rolls, Maki ,G,U,STONEY CREEK,Shrimp ,Shrimp,Gadus chalcogrammus,Gadus,2019-07-02,19.19,2019,Jul,Summer, NA,No,0,0,0,0,0
+19-056083-0002,Single, Cooked, rolls, Maki ,G,U,KITCHENER,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-07-19,13.4,2019,Jul,Summer,NT,No,0,0,0,0,0
+19-016127-0002,Single, Raw, rolls, Maki,R,I,WOODSTOCK,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2019-03-04,33.84,2019,Mar,Spring, NA,Yes,1,0,1,0,1
+19-073695-0001-b,Mixed, Raw, rolls, Maki,G,U,GUELPH,Shrimp ,Shrimp,Gadus chalcogrammus,Gadus,2019-09-19,20.32,2019,Sep,Autumn,LC,No,0,1,1,0,0
+19-074119-0002-b,Mixed, Raw/cooked, rolls, Maki,G,U,GUELPH,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-09-23,16.28,2019,Sep,Autumn,NT,No,0,1,0,0,0
+19-079217-0002,Single, Cooked, rolls, Maki ,G,U,GUELPH,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-10-08,15.75,2019,Oct,Autumn, NA,No,0,0,0,0,0
+19-082697-0002-b,Single, Raw, rolls, Maki,R,U,GUELPH,Salmon ,Salmon,Penaeus vannamei,Penaeus,2019-10-21,33.56,2019,Oct,Autumn, NA,No,0,0,1,0,1
+19-083670-0002-c,Mixed, Raw/cooked, rolls, Maki,G,U,STONEY CREEK,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-10-23,24.33,2019,Oct,Autumn, NA,No,0,1,0,0,0
+19-084666-0001-b,Mixed, Raw/cooked, rolls, Mixed,Missing form,Missing form,BURLINGTON,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-10-27,20.32,2019,Oct,Autumn, NA,No,0,1,0,0,0
+19-016598-0002-b,Mixed, Raw, cuts, Sashimi,R,U,HAMILTON,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2019-03-05,27.06,2019,Mar,Spring, NA,Yes,1,1,1,1,1
+19-084666-0002-d ,Mixed, Raw/cooked, rolls/cuts, Maki,G,I,BURLINGTON,Shrimp ,Shrimp,Salmo salar,Salmo,2019-10-27,20.32,2019,Oct,Autumn,LC,No,0,1,0,0,0
+19-084671-0002-c,Mixed, Raw/cooked, rolls/cuts, Mixed,G,I,GUELPH,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-10-28,21.45,2019,Oct,Autumn,VU,No,0,1,0,0,0
+19-087095-0001,Single, Cooked, rolls, Maki ,G,U,GUELPH,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-11-04,11.03,2019,Nov,Autumn, NA,No,0,0,0,0,0
+19-088070-0002-c,Mixed, Raw/cooked, rolls/cuts, Nigiri,G,U,TORONTO,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-11-06,23.75,2019,Nov,Autumn, NA,No,0,1,0,0,0
+19-088073-0001,Single, Raw, rolls, Maki,R,U,TORONTO,Salmon ,Salmon,Penaeus vannamei,Penaeus,2019-11-06,24.9,2019,Nov,Autumn, NA,No,0,0,1,0,1
+19-094809-0002-c,Mixed, Raw, cuts, Mixed ,G,U,OTTAWA,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-11-30,35.56,2019,Nov,Autumn, NA,No,0,1,1,1,0
+18-093441-0002,Single, Raw, cuts, Nigiri,R,U,BURLINGTON,Snapper ,Snapper, Oreochromis niloticus,Oreochromis,2018-11-26,25.43,2018,Nov,Autumn, NA,Yes,1,0,1,1,1
+19-016600-0001,Single, Raw, rolls, Maki,R,I,STONEY CREEK,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2019-03-05,26,2019,Mar,Spring,LC,Yes,1,0,1,0,1
+19-028101-0002-c,Mixed, Raw, cuts, Sashimi,G,U,MISSISSAUGA,Snapper ,Snapper,Oreochromis niloticus,Oreochromis,2019-04-14,33.91,2019,Apr,Spring,LC,Yes,1,1,1,1,0
+19-082697-0003-a,Mixed, Raw, rolls, Maki,R,U,GUELPH,Snapper ,Snapper, Oreochromis niloticus,Oreochromis,2019-10-21,33.56,2019,Oct,Autumn,LC,Yes,1,1,1,0,1
+19-095899-0002-b,Mixed, Raw, rolls, Maki,R,I,WATERLOO,Snapper ,Snapper,Oreochromis,Oreochromis,2019-12-04,20.91,2019,Dec,Winter,LC,Yes,1,1,1,0,1
+19-016602-0002-e,Mixed, Raw, rolls, Maki,R,U,HAMILTON,Snapper ,Snapper, Oreochromis niloticus,Oreochromis,2019-03-05,27.95,2019,Mar,Spring, NA,Yes,1,1,1,0,1
+19-028646-0002-a,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Snapper ,Snapper,Salmo salar,Salmo,2019-04-16,30.3,2019,Apr,Spring,LC,Yes,1,1,1,0,1
+19-028701-0002-b,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Snapper ,Snapper,Lepidocybium flavobrunneum,Lepidocybium,2019-04-16,16.27,2019,Apr,Spring,VU,Yes,1,1,1,0,1
+19-016602-0001-c,Mixed, Raw, cuts, Sashimi,R,U,HAMILTON,Snapper ,Snapper, Oreochromis niloticus,Oreochromis,2019-03-05,27.95,2019,Mar,Spring,LC,Yes,1,1,1,1,1
+19-046833-0001,Single, Raw, rolls, Maki,R,I,BRAMPTON,Salmon ,Salmon,Lepidocybium flavobrunneum,Lepidocybium,2019-06-18,25.97,2019,Jun,Summer,LC,No,0,0,1,0,1
+18-085935-0002,Single, Raw, cuts, Sashimi,R,I,WATERLOO,Snapper red ,Snapper,Thunnus albacares,Thunnus,2018-10-29,23.9,2018,Oct,Autumn,LC,Yes,1,0,1,1,1
+18-087945-0001,Single, Raw, cuts, Sashimi,R,U,OTTAWA,Snapper red ,Snapper, Oreochromis niloticus,Oreochromis,2018-11-05,43,2018,Nov,Autumn,LC,Yes,1,0,1,1,1
+18-090079-0001-a,Mixed, Raw, rolls, Maki,R,U,GUELPH,Snapper red ,Snapper, Oreochromis niloticus,Oreochromis,2018-11-13,45.2,2018,Nov,Autumn,LC,Yes,1,1,1,0,1
+19-011023-0002,Single, Raw, rolls, Maki,R,I,MILTON,Snapper red ,Snapper,Cichlidae,Cichlidae,2019-02-11,23.94,2019,Feb,Winter,LC,Yes,1,0,1,0,1
+19-003593-0002,Mixed, Raw, rolls, Maki,R,I,TORONTO,Snapper,Snapper,Seriola,Seriola,2019-01-13,49.72,2019,Jan,Winter,LC,Yes,1,1,1,0,1
+19-089065-0001-d,Single, Raw, rolls, Maki,G,U,GUELPH,Salmon ,Salmon,Penaeus vannamei,Penaeus,2019-11-11,23.71,2019,Nov,Autumn,VU,No,0,0,1,0,0
+19-024874-0002,Single, Raw, rolls, Maki,R,U,NORTH YORK,Snapper yellowtail,Snapper,Seriola,Seriola,2019-04-02,31.64,2019,Apr,Spring, NA,Yes,1,0,1,0,1
+19-088052-0002-a,Single, Raw, rolls, Maki,R,I,TORONTO,Tuna,Tuna,Thunnus,Thunnus,2019-11-06,20.23,2019,Nov,Autumn,VU,No,0,0,1,0,1
+18-083430-0002,Single, Raw, cuts, Sashimi,R,U,BRAMPTON,Tuna ,Tuna,Thunnus albacares,Thunnus,2018-10-22,33.04,2018,Oct,Autumn, NA,No,0,0,1,1,1
+18-085351-0001,Single, Raw, cuts, Sashimi,R,U,WHITBY,Tuna ,Tuna,Thunnus albacares,Thunnus,2018-10-28,40.61,2018,Oct,Autumn,LC,No,0,0,1,1,1
+19-082697-0001-b,Mixed, Raw, rolls, Maki,R,I,GUELPH,Butterfish ,Butterfish,Lepidocybium flavobrunneum,Lepidocybium,2019-10-21,33.56,2019,Oct,Autumn,LC,Yes,1,1,1,0,1
+18-085932-0001,Single, Raw, cuts, Sashimi,R,U,WATERLOO,Tuna ,Tuna,Thunnus,Thunnus,2018-10-29,45.6,2018,Oct,Autumn,LC,No,0,0,1,1,1
+19-095886-0003-a,Mixed, Raw/cooked, cuts, Nigiri,G,U,KITCHENER,Shrimp ,Shrimp,Penaeus vannamei,Penaeus,2019-12-04,33.3,2019,Dec,Winter,LC,No,0,1,0,1,0
+18-087935-0001,Single, Raw, cuts, Sashimi,R,U,OTTAWA,Tuna ,Tuna,Thunnus albacares,Thunnus,2018-11-05,42.71,2018,Nov,Autumn, NA,No,0,0,1,1,1
+18-093443-0002,Single, Raw, rolls, Maki,R,U,BURLINGTON,Tuna ,Tuna,Thunnus albacares,Thunnus,2018-11-26,48.82,2018,Nov,Autumn,LC,No,0,0,1,0,1
+19-002214-0002,Single, Raw, rolls, Maki,R,U,KITCHENER,Tuna ,Tuna,Thunnus,Thunnus,2019-01-08,35.6,2019,Jan,Winter,LC,No,0,0,1,0,1
+19-002217-0001,Single, Raw, cuts, Sashimi,R,U,CAMBRIDGE,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-01-08,30.45,2019,Jan,Winter,LC,No,0,0,1,1,1
+19-003572-0001-b,Mixed, Raw, rolls, Maki,R,U,TORONTO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-01-13,36.16,2019,Jan,Winter,LC,No,0,1,1,0,1
+19-003579-0001-b,Mixed, Raw, rolls, Maki,R,U,TORONTO,Tuna ,Tuna,Thunnus,Thunnus,2019-01-13,29.38,2019,Jan,Winter,LC,No,0,1,1,0,1
+19-003634-0001-d,Mixed, Raw, cuts, Sashimi,R,U,TORONTO,Clam,Clam,No result,NA,2019-01-13,32.76,2019,Jan,Winter,LC,No,0,1,1,1,1
+19-016598-0002-d,Mixed, Raw, cuts, Sashimi,R,U,HAMILTON,Clam,Clam,No result,NA,2019-03-05,27.06,2019,Mar,Spring,NR,No,0,1,1,1,1
+19-016602-0001-d,Mixed, Raw, cuts, Sashimi,R,U,HAMILTON,Clam,Clam,No result,NA,2019-03-05,27.95,2019,Mar,Spring,NR,No,0,1,1,1,1
+19-016602-0002-d,Mixed, Raw, rolls, Maki,R,U,HAMILTON,Clam,Clam,No result,NA,2019-03-05,27.95,2019,Mar,Spring,NR,No,0,1,1,0,1
+19-003593-0001-b,Mixed, Raw, rolls, Maki,R,U,TORONTO,Tuna ,Tuna,Thunnus,Thunnus,2019-01-13,49.72,2019,Jan,Winter,NR,No,0,1,1,0,1
+19-089065-0001-b,Single, Raw, rolls, Maki,G,U,GUELPH,Salmon,Salmon,No result,NA,2019-11-11,23.71,2019,Nov,Autumn,LC,No,0,0,1,0,0
+19-002233-0001-b,Mixed, Raw, cuts, Sashimi,R,I,CAMBRIDGE,Shrimp ,Shrimp,Actinopteri,Actinopteri,2019-01-08,48.67,2019,Jan,Winter,NR,No,0,1,1,1,1
+19-028111-0001-b,Single, Raw, rolls, Maki,G,U,MISSISSAUGA,Salmon ,Salmon,Gadidae,Gadidae,2019-04-14,27.08,2019,Apr,Spring, NA,No,0,0,1,0,0
+19-044958-0002-a,Mixed, Raw, rolls, Maki,G,U,OTTAWA,Shrimp ,Shrimp,Penaeus,Penaeus,2019-06-11,29.9,2019,Jun,Summer, NA,No,0,1,1,0,0
+19-070491-0001-a,Mixed, Raw, rolls, Maki,G,U,GUELPH,Shrimp ,Shrimp,Salmonidae,Salmonidae,2019-09-10,23.71,2019,Sep,Autumn, NA,No,0,1,1,0,0
+19-003622-0001-b,Mixed, Raw, rolls, Maki,R,U,TORONTO,Tuna ,Tuna,Thunnus albacares,Thunnus,2019-01-13,33,2019,Jan,Winter, NA,No,0,1,1,0,1
+19-028696-0001-c,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Snapper ,Snapper,Decapoda,Decapoda,2019-04-16,30.41,2019,Apr,Spring,LC,Yes,1,1,1,0,1
+19-028696-0002-c,Mixed, Raw, rolls, Maki,R,U,WATERLOO,Snapper ,Snapper,Not Found in Finalized Outcome file,NA,2019-04-16,30.41,2019,Apr,Spring, NA,Yes,1,1,1,0,1
+19-016124-0002,Single, Raw, rolls, Maki,R,I,WOODSTOCK,Tuna ,Tuna,Lepidocybium flavobrunneum,Lepidocybium,2019-03-04,27.09,2019,Mar,Spring,VU,No,0,0,1,0,1
+19-028055-0002,Single, Raw, cuts, Sashimi,R,U,MISSISSAUGA,Tuna ,Tuna,Not Found in Finalized Outcome file,NA,2019-04-14,40.67,2019,Apr,Spring,LC,No,0,0,1,1,1
+19-093135-0002-a,Mixed, Raw, rolls, Maki,G,U,GUELPH,Tuna ,Tuna,Thunnus,Thunnus,2019-11-25,21.45,2019,Nov,Autumn, NA,No,0,1,1,0,0
+19-066484-0001-a,Mixed, Raw, rolls, Maki,R,D,WINDSOR,Tuna red ,Tuna,Thunnus,Thunnus,2019-08-26,27.01,2019,Aug,Summer, NA,No,0,1,1,0,1
+19-073507-0001-b,Mixed, Raw, rolls, Maki,G,I,OTTAWA,Unknown,Unknown,Not Found in Finalized Outcome file,NA,2019-09-18,20.45,2019,Sep,Autumn, NA,No,0,1,1,0,0
