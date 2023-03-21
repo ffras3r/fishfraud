@@ -7,7 +7,9 @@ rt <- stanc(file = "stanTest.stan", model_name = 'fish')
 sm <- stan_model(stanc_ret = rt)
 
 Data<-read.csv('CollatedDataFinal.csv')
-model <- list(N=196, subset(Data, select = c("isMislabelled", "thePrice", "isMixed", "isCut", "isRaw")))
+N=196
+model <- list(N=N, isMislabelled=Data$isMislabelled, isCut=Data$isCut, isMixed=Data$isMixed , isRaw=Data$isRaw, thePrice=Data$thePrice)
+
 
 fit <- sampling(sm, data=model, chains=4)
 fit
