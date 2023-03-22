@@ -7,7 +7,7 @@ rt <- stanc(file = "stanTest.stan", model_name = 'fish')
 sm <- stan_model(stanc_ret = rt)
 
 DataFull<-read.csv('CollatedDataFinal.csv')
-Data <- subset(Data, Data$Sample.source != "Missing form")
+Data <- subset(DataFull, Data$Sample.source != "Missing form")
 length(Data$isMislabelled)
 
 #N=196
