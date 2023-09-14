@@ -44,7 +44,7 @@ impute <- mice(DataFull, method='pmm')
 impute$imp$thePrice #get average of these values?
 
 
-DataRed <- subset(DataFull, DataFull$Sample.source != "Missing form"& DataFull$Sample2 != "Raw/cooked" & DataFull$Sample3 != "rolls/cuts")
+Data <- subset(DataFull, DataFull$Sample.source != 2 & DataFull$Sample2 != 4 & DataFull$Sample3 != 4)
 
 # THIS R CODE GOES THROUGH THE FINAL WORKTHOUGH OF BUILDING FREQUENTIST MODELS
 # EACH SECTION OF CODE IS COMMENTED OUT SO PARTS CAN BE UNCOMMENTED FOR OUTPUT READIBILITY
@@ -206,8 +206,8 @@ DataRed <- subset(DataFull, DataFull$Sample.source != "Missing form"& DataFull$S
 # sensitivity
 # specificity
  
-full <- lm(thePrice ~  isCut + isRest + isRaw, data=DataRed)
-red <- lm(thePrice ~  isCut + isRest, data=DataRed)
+full <- glm(isMislabelled ~ thePrice + theSeason + isRest, family=binomial, data=Data)
+red <- glm(isMislabelled ~ thePrice + isRest, family=binomial, data=Data)
 
 summary(full)
 summary(red)
