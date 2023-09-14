@@ -1,21 +1,65 @@
 #Read data, from Bob's lab
-setwd("C:\\Users\\ffras\\OneDrive\\Desktop\\School\\self")
+setwd("C:\\Users\\ffras\\OneDrive\\Desktop\\School\\self\\previous")
 DataFull<-read.csv('forGit\\CollatedDataFinal.csv')
-Data <- subset(DataFull, DataFull$Sample.source != "Missing form"& DataFull$Sample2 != "Raw/cooked" & DataFull$Sample3 != "rolls/cuts")
+
+DataFull$Sample1 <- trimws(DataFull$Sample1)
+DataFull$Sample2 <- trimws(DataFull$Sample2)
+DataFull$Sample3 <- trimws(DataFull$Sample3)
+DataFull$Sample4 <- trimws(DataFull$Sample4)
+DataFull$Sample.source <- trimws(DataFull$Sample.source)
+DataFull$Locality <- trimws(DataFull$Locality)
+DataFull$City <- trimws(DataFull$City)
+DataFull$expectedGen <- trimws(DataFull$expectedGen)
+DataFull$theYear <- trimws(DataFull$theYear)
+DataFull$theMonth <- trimws(DataFull$theMonth)
+DataFull$theSeason <- trimws(DataFull$theSeason)
+DataFull$IUCN <- trimws(DataFull$IUCN)
+
+# Convert to factor
+
+DataFull$Sample1 <- as.integer(as.factor(DataFull$Sample1))
+DataFull$Sample2 <- as.integer(as.factor(DataFull$Sample2)) 
+DataFull$Sample3 <- as.integer(as.factor(DataFull$Sample3)) 
+DataFull$Sample4 <- as.integer(as.factor(DataFull$Sample4)) 
+DataFull$Sample.source <- as.integer(as.factor(DataFull$Sample.source)) 
+DataFull$Locality <- as.integer(as.factor(DataFull$Locality)) 
+DataFull$City <- as.integer(as.factor(DataFull$City)) 
+DataFull$expectedGen <- as.integer(as.factor(DataFull$expectedGen)) 
+DataFull$theYear <- as.integer(as.factor(DataFull$theYear)) 
+DataFull$theMonth <- as.integer(as.factor(DataFull$theMonth)) 
+DataFull$theSeason <- as.integer(as.factor(DataFull$theSeason)) 
+DataFull$IUCN <- as.integer(as.factor(DataFull$IUCN)) 
+
+#ESTIMATE PRICE
+#using linear model
+# library(MASS)
+# dataPrice <- data.frame(DataFull$Sample.source, DataFull$Locality, DataFull$expectedGen, DataFull$IUCN, DataFull$thePrice, DataFull$theMonth, DataFull$Sample1, DataFull$Sample2, DataFull$Sample3, DataFull$Sample4)
+# dataPrice <- subset(dataPrice, dataPrice$DataFull.Sample.source != "Missing form" & dataPrice$DataFull.Sample2 != "Raw/cooked" & dataPrice$DataFull.Sample3 != "rolls/cuts")
+# full <- lm(DataFull.thePrice ~ ., data=dataPrice)R
+# backward <- stepAIC(full, direction="backward", scope = list(upper = ~., lower = ~1), trace=TRUE)
+
+#using mean imputation
+library(mice)
+impute <- mice(DataFull, method='pmm')
+impute$imp$thePrice #get average of these values?
+
+
+DataRed <- subset(DataFull, DataFull$Sample.source != "Missing form"& DataFull$Sample2 != "Raw/cooked" & DataFull$Sample3 != "rolls/cuts")
 
 # THIS R CODE GOES THROUGH THE FINAL WORKTHOUGH OF BUILDING FREQUENTIST MODELS
 # EACH SECTION OF CODE IS COMMENTED OUT SO PARTS CAN BE UNCOMMENTED FOR OUTPUT READIBILITY
 
 #Remove data with low counts, useful?
-# Data2 <- Data[Data$City %in% names(which(table(Data$City)>5)),]
-# Data3 <- Data2[Data2$IUCN %in% names(which(table(Data2$IUCN)>5)),]
-# Data <- Data3[Data3$expectedGen %in% names(which(table(Data3$expectedGen)>5)),]
-# redData <- Data4[Data4$realGen %in% names(which(table(Data4$realGen)>5)),]
-attach(Data)
-
+# 
+# redData <- Data %>%
+#   filter(City %in% names(which(table(City) > 5)),
+#          IUCN %in% names(which(table(IUCN) > 5)),
+#          expectedGen %in% names(which(table(expectedGen) > 5)),
+#          realGen %in% names(which(table(realGen) > 5)))
+# attach(Data)
 
 # #MISLABELLING PROPORTIONS 
-#Change this var \/ depending on what you want to check
+# Change this var \/ depending on what you want to check
 # Table <- table(theMonth, isMislabelled)
 # prop_successes <- Table[, 2] / (Table[, 1] + Table[, 2])
 # prop_samples <- (Table[, 2] + Table[, 1]) / sum(Table)
@@ -161,31 +205,18 @@ attach(Data)
 # accuracy
 # sensitivity
 # specificity
+ 
+full <- lm(thePrice ~  isCut + isRest + isRaw, data=DataRed)
+red <- lm(thePrice ~  isCut + isRest, data=DataRed)
 
-#PREDICT PRICE FOR MISSING PRICE OBSERVATION
-# one <- lm(thePrice ~ isMixed)
-# two <- lm(thePrice ~ isCut)
-# three <- lm(thePrice ~ City)
-# four <- lm(thePrice ~ theMonth)
-# five <- lm(thePrice ~ expectedGen)
-# six <- lm(thePrice ~ isRest)
-# seven <- lm(thePrice ~ isRaw)
-# 
-# summary(one)
-# summary(two)
-# summary(three)
-# summary(four)
-# summary(five)
-# summary(six)
-# summary(seven)
-# 
-# full <- lm(thePrice ~  isCut + isRest + isRaw)
-# red <- lm(thePrice ~  isCut + isRest)
-# 
-# summary(full)
-# summary(red)
-# 
-# anova(full, red)
+summary(full)
+summary(red)
+anova(full, red)
+
+#CHECK FOR COLINEARITY
+library(car)
+vif(full)
+vif(red)
 
 #INTERACTION TERMS
 #FULL MODEL
@@ -203,3 +234,5 @@ attach(Data)
 # model2 <- glm(isMislabelled ~ thePrice + isRest, family=binomial, data=Data)
 # int <- glm(isMislabelled ~ thePrice + isRest + thePrice:isRest, family=binomial, data=Data)
 # anova(int, model2, test='Chisq')
+
+
